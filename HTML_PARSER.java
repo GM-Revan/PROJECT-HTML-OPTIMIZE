@@ -8,9 +8,6 @@ import org.jsoup.select.Elements;
 import java.io.IOException;
 
 
-FUUUUUUCK YEA
-
-
 public class HTML_PARSER
 {
 
