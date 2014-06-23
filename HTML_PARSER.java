@@ -60,9 +60,7 @@ public class HTML_PARSER {
 			}
 			// TeeoutputStream Filewriter
 
-			// INSERT WEBLINK FIRST
-			// INSERT WEBLINK FIRST
-			// INSERT WEBLINK FIRST
+		//Connect to TXT Link
 			File link = new File("C:/links.txt");
 			String line1 = null;
 			try {
@@ -73,9 +71,7 @@ public class HTML_PARSER {
 				e.printStackTrace();
 			}
 			doc = Jsoup.connect(line1).get();
-			// INSERT WEBLINK FIRST
-			// INSERT WEBLINK FIRST
-			// INSERT WEBLINK FIRST
+		//Connect to TXT Link
 			int c = 0, commentsAmount = 0;
 
 			// Version
@@ -105,10 +101,11 @@ public class HTML_PARSER {
 			for (Node node : nods) {
 				if (node instanceof DocumentType) {
 					DocumentType documentType = (DocumentType) node;
-					System.out.println("\nVersion:"
-							+ documentType.attr("publicid") + "\n");
-					if (documentType.attr("publicid").length() < 1) {
-						System.out.println("Doctype HTML 5\n");
+					if (documentType.attr("publicid").length() > 1) {
+						System.out.println("\nVersion:"
+								+ documentType.attr("publicid") + "\n");
+					} else {
+						System.out.println("\nVersion: HTML 5\n");
 
 					}
 				}
