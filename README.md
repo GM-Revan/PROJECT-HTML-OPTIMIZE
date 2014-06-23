@@ -4,7 +4,7 @@ PROJECT-HTML-OPTIMIZE
 HTML code performance and quality improvement.
 
 External Libraries:
-Apache Commons
+Apache Commons,
 Jsoup.
 
 External Java files(Links):
