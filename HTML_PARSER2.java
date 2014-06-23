@@ -1,16 +1,24 @@
 package project;
 
+/**
+ *            TECHNOLOGICAL EDUCATIONAL INSTITUTE OF MESSOLONGHI.
+ * 
+ * HTML Optimization Statistics Algorithm by George Michalitsis & Kiriakos Mpiziklis 2014.
+ * 
+ * You may use this code any way you wish, private, educational, or commercial.
+ * It's free. See: https://github.com/GM-Revan/PROJECT-HTML-OPTIMIZE/blob/master/HTML_PARSER2.java
+ * 
+ */
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.PrintStream;
 import java.util.ArrayList;
 import java.util.HashSet;
-import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
 import java.util.Set;
-
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Comment;
 import org.jsoup.nodes.Document;
@@ -20,18 +28,51 @@ import org.jsoup.nodes.Node;
 import org.jsoup.nodes.TextNode;
 import org.jsoup.select.Elements;
 import org.jsoup.select.NodeVisitor;
+import org.apache.commons.io.output.TeeOutputStream;
 
 public class HTML_PARSER {
+	static int domcounter = 0;
+	static int domav = 0;
+	static int domax = 0;
 
 	// MAIN PROGRAM
 	public static void main(String[] args) {
-
 		Document doc;
+
 		try {
+			// TeeoutputStream Filewriter
+			File f = new File("c:/Output.txt");
+			if (!f.exists()) {
+				try {
+					f.createNewFile();
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+			try {
+				FileOutputStream fos = new FileOutputStream(f);
+				// we will want to print in standard "System.out" and in "file"
+				TeeOutputStream myOut = new TeeOutputStream(System.out, fos);
+				PrintStream ps = new PrintStream(myOut);
+				System.setOut(ps);
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+			// TeeoutputStream Filewriter
+
 			// INSERT WEBLINK FIRST
 			// INSERT WEBLINK FIRST
 			// INSERT WEBLINK FIRST
-			doc = Jsoup.connect("http://www.apple.com/").get();
+			File link = new File("C:/links.txt");
+			String line1 = null;
+			try {
+				Scanner scanner = new Scanner(link);
+				line1 = scanner.nextLine();
+				System.out.println("Link: " + line1);
+			} catch (FileNotFoundException e) {
+				e.printStackTrace();
+			}
+			doc = Jsoup.connect(line1).get();
 			// INSERT WEBLINK FIRST
 			// INSERT WEBLINK FIRST
 			// INSERT WEBLINK FIRST
@@ -44,7 +85,6 @@ public class HTML_PARSER {
 						String o = n.toString();
 						int intIndex = o.indexOf("WordPress");
 						if (intIndex == -1) {
-
 						} else {
 							System.out.println("CMS :Wordpress ");
 						}
@@ -69,6 +109,7 @@ public class HTML_PARSER {
 							+ documentType.attr("publicid") + "\n");
 					if (documentType.attr("publicid").length() < 1) {
 						System.out.println("Doctype HTML 5\n");
+
 					}
 				}
 			}
@@ -90,19 +131,16 @@ public class HTML_PARSER {
 						}
 					}
 				}
-
 			}
 			// Comments
 
 			// Duplicate IDs
-			String idname2;
-			List<String> idlist = new LinkedList<String>();
-			for (Element element2 : doc.getAllElements()) {
-				idname2 = element2.id();
-				if (idname2.length() > 0) {
-					idlist.add(idname2.toString());
-				}
-			}
+			// String idname2;
+			// List<String> idlist = new LinkedList<String>();
+			// for (Element element2 : doc.getAllElements()) {
+			// idname2 = element2.id();
+			// idlist.add(idname2.toString());
+			// }
 			// Duplicate IDs
 
 			// IdLength
@@ -118,7 +156,6 @@ public class HTML_PARSER {
 			}
 
 			for (String pointer : idval) {
-
 				average2 = pointer.length() + average2;
 				l++;
 			}
@@ -134,11 +171,9 @@ public class HTML_PARSER {
 				for (String attribute : element2.classNames()) {
 					if (attribute.length() > 0)
 						classval.add(attribute.toString());
-
 				}
 			}
-			for (String pointer : classval) 
-			{
+			for (String pointer : classval) {
 				average = pointer.length() + average;
 				g++;
 			}
@@ -155,19 +190,14 @@ public class HTML_PARSER {
 					String lol = attribute.getValue();
 					attval.add(lol.toString());
 					if (lol != null && !lol.isEmpty()) {
-
 						totalval++;
-
 					}
-
 				}
-
 			}
 			int valuenum = new HashSet<String>(attval).size();
 			// Attribute values
 
 			// DOM
-
 			doc.traverse(new NodeVisitor() {
 				public void head(Node node, int depth) {
 					if (!(node instanceof TextNode)) {
@@ -177,12 +207,10 @@ public class HTML_PARSER {
 							domax = depth;
 						}
 					}
-
 				}
 
 				public void tail(Node node, int depth) {
 				}
-
 			});
 			float totaldom = domav / domcounter;
 			// DOM
@@ -193,7 +221,6 @@ public class HTML_PARSER {
 				if (element.attr("rel").contains("stylesheet")) {
 					countchars = element.toString().length() + countchars;
 					c++;
-
 				}
 			}
 			// external Css
@@ -205,11 +232,8 @@ public class HTML_PARSER {
 				for (org.jsoup.nodes.Attribute attribute : element.attributes()) {
 					attribute.setValue("0");
 					atts.add(attribute.toString());
-
 					att++;
-
 				}
-
 			}
 			int da = new HashSet<String>(atts).size();
 			// Total and Distinct Attributes
@@ -219,9 +243,7 @@ public class HTML_PARSER {
 			Elements src = doc.select("script");
 			for (Element element : src.select("script[src]")) {
 				{
-
 					se++;
-
 				}
 			}
 			// scripts external
@@ -233,7 +255,6 @@ public class HTML_PARSER {
 			for (Element element : s.select("[rel]")) {
 				if (element.attr("rel").contains("stylesheet")) {
 					d++;
-
 				}
 			}
 
@@ -241,59 +262,45 @@ public class HTML_PARSER {
 			String name;
 			if (total > 0) {
 				name = "FALSE";
-			}
-
-			else {
+			} else {
 				name = "TRUE";
 			}
 			// css head
 
 			// HTML5 Tags
-			
-			  File text = new File("C:/html5tags.txt");
-	           
-			  int h=0;
-	           try {
+			File text = new File("C:/html5tags.txt");
+			int h = 0;
+			try {
 
-	            Scanner scanner = new Scanner(text);
-	              
-	               while (scanner.hasNextLine()) {
-	                   String line = scanner.nextLine();
-	                    h=doc.select(line).size()+h;
-	               }
-	               scanner.close();
-
-	           } catch (FileNotFoundException e) 
-	           {
-	               e.printStackTrace();
-	           }
-	          
+				Scanner scanner = new Scanner(text);
+				while (scanner.hasNextLine()) {
+					String line = scanner.nextLine();
+					h = doc.select(line).size() + h;
+				}
+				scanner.close();
+			} catch (FileNotFoundException e) {
+				e.printStackTrace();
+			}
 			// HTML5 Tags
-	           
-	        // HTML5 Distinct Tags
-	           
-	       		int dtags5 = 0;
-	       		   File tags5 = new File("C:/html5tags.txt");
-	                  
-	       			  
-	                  try {
 
-	                   Scanner scanner = new Scanner(tags5);
-	                     
-	                      while (scanner.hasNextLine()) {
-	                          String line = scanner.nextLine();
-	                        if  (doc.getElementsByTag(line).size()>0)
-	                       	 dtags5++;
-	                  		
-	                      }
-	                      scanner.close();
-	                 
+			// HTML5 Distinct Tags
 
-	                  } catch (FileNotFoundException e) 
-	                  {
-	                      e.printStackTrace();
-	                  }
-	       	// HTML5 Distinct Tags
+			int dtags5 = 0;
+			File tags5 = new File("C:/html5tags.txt");
+			try {
+
+				Scanner scanner = new Scanner(tags5);
+
+				while (scanner.hasNextLine()) {
+					String line = scanner.nextLine();
+					if (doc.getElementsByTag(line).size() > 0)
+						dtags5++;
+				}
+				scanner.close();
+			} catch (FileNotFoundException e) {
+				e.printStackTrace();
+			}
+			// HTML5 Distinct Tags
 
 			// styles
 			int style = doc.getElementsByTag("style").size()
@@ -332,12 +339,13 @@ public class HTML_PARSER {
 			System.out.println("Distinct Att values: " + valuenum);
 			System.out.println("Class Average Length: " + tclass);
 			System.out.println("ID Average Length: " + tid);
-			System.out.println("Duplicate IDs are " + findDuplicates(idlist));
+			// System.out.println("Duplicate IDs are " +
+			// findDuplicates(idlist));
 			// Output
 
 			// Count Chars
 			String doctoString = doc.toString();
-			File file = new File("c:/newfile.txt");
+			File file = new File("c:/HTML.txt");
 			int Countchar = doctoString.length();
 			Elements scriptcount = doc.getElementsByTag("script");
 			int countscriptchar = scriptcount.toString().length();
@@ -350,18 +358,14 @@ public class HTML_PARSER {
 			System.out.println("Total Comment characters: " + comchar);
 
 			try (FileOutputStream fop = new FileOutputStream(file)) {
-
 				// if file doesn't exists, then create it
 				if (!file.exists()) {
 					file.createNewFile();
 				}
-
 				byte[] contentInBytes = doctoString.getBytes();
-
 				fop.write(contentInBytes);
 				fop.flush();
 				fop.close();
-
 			}
 			// Count chars
 
@@ -375,8 +379,7 @@ public class HTML_PARSER {
 			// Halstead
 
 			// Halstead HTML 5
-			int voc5 = da + dtags5 + valuenum, len5 = totalval + att
-					+ h;
+			int voc5 = da + dtags5 + valuenum, len5 = totalval + att + h;
 			System.out
 					.println("\n     Halstead Complexity Measures <<HTml 5 tags>>\n");
 			System.out.println("Vocabulary= " + voc5);
@@ -387,28 +390,23 @@ public class HTML_PARSER {
 			// Page Ranking
 			System.out.println("\n     PAGE RANKING\n");
 			AlexaSEO obj = new AlexaSEO();
-			System.out.println(" World Ranking : "
-					+ obj.getAlexaRanking("http://www.apple.com/"));
+			System.out
+					.println(" World Ranking : " + obj.getAlexaRanking(line1));
 			GoogleSeoHelper obj2 = new GoogleSeoHelper();
-			System.out.println("Google Page rank: "
-					+ obj2.getPR("http://www.apple.com/"));
+			System.out.println("Google Page rank: " + obj2.getPR(line1));
 			// Page Ranking
-		}
-
-		catch (IOException e) {
+		} catch (IOException e) {
 			e.printStackTrace();
 		}
-
 	}
 
 	// MAIN PROGRAM
+
 	// Duplicate Variables in array Counter
 	public static Set<String> findDuplicates(
 			List<String> listContainingDuplicates) {
-
 		final Set<String> setToReturn = new HashSet<String>();
 		final Set<String> set1 = new HashSet<String>();
-
 		for (String yourInt : listContainingDuplicates) {
 			if (!set1.add(yourInt)) {
 				setToReturn.add(yourInt);
@@ -418,6 +416,7 @@ public class HTML_PARSER {
 	}
 
 	// Duplicate Variables in array Counter
+
 	// Log Base 2
 	public static double logb(double a, double b) {
 		return Math.log(a) / Math.log(b);
@@ -426,11 +425,5 @@ public class HTML_PARSER {
 	public static double log2(double a) {
 		return logb(a, 2);
 	}
-
 	// Log Base 2
-	static int domcounter = 0;
-	static int domav = 0;
-	static int domax = 0;
-
-
 }
