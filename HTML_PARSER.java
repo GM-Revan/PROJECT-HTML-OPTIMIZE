@@ -60,7 +60,7 @@ public class HTML_PARSER {
 			}
 			// TeeoutputStream Filewriter
 
-		//Connect to TXT Link
+			// Connect to TXT Link
 			File link = new File("C:/links.txt");
 			String line1 = null;
 			try {
@@ -71,7 +71,7 @@ public class HTML_PARSER {
 				e.printStackTrace();
 			}
 			doc = Jsoup.connect(line1).get();
-		//Connect to TXT Link
+			// Connect to TXT Link
 			int c = 0, commentsAmount = 0;
 
 			// Version
@@ -313,29 +313,28 @@ public class HTML_PARSER {
 			// tags
 
 			// Output
-			System.out.println("Total Comments: " + commentsAmount);
+			System.out.println("Total Comments: " + commentsAmount + "\n");
 			System.out.println("Styles inside HTML: " + style);
 			System.out.println("Scripts inside HTML: "
-					+ doc.getElementsByTag("script").size());
+					+ doc.getElementsByTag("script").size() + "\n");
 			System.out.println("Total tags: " + doc.getAllElements().size());
-			System.out.println("Distinct tags:  " + dt);
+			System.out.println("Distinct tags:  " + dt + "\n");
 			System.out.println("HTML 5 Total tags: " + h);
-			System.out.println("HTML 5 Distinct tags: " + dtags5);
+			System.out.println("HTML 5 Distinct tags: " + dtags5 + "\n");
 			System.out.println("external css files: " + c);
 			System.out.println("CSSinside head: " + name);
-			System.out.println("<<<Styles(tags and atts) Inside Body: "
+			System.out.println("Styles(tags and atts) Inside Body: "
 					+ stylebody);
-			System.out.println("External Css Inside Body: " + d + ">>>");
-			System.out.println("External Scripts: " + se);
+			System.out.println("External Css Inside Body: " + d + "\n");
+			System.out.println("External Scripts: " + se + "\n");
 			System.out.println("total attributes " + att);
 			System.out.println("Distinct Attributes: " + da);
 			System.out.println("total attribute Values " + totalval);
-			System.out.println("Distinct Attribute Values: " + valuenum);
+			System.out.println("Distinct Attribute Values: " + valuenum + "\n");
 			System.out.println("DOM average depth: " + totaldom);
-			System.out.println("DOM max depth: " + domax);
-			System.out.println("Distinct Att values: " + valuenum);
+			System.out.println("DOM max depth: " + domax + "\n");
 			System.out.println("Class Average Length: " + tclass);
-			System.out.println("ID Average Length: " + tid);
+			System.out.println("ID Average Length: " + tid + "\n");
 			// System.out.println("Duplicate IDs are " +
 			// findDuplicates(idlist));
 			// Output
