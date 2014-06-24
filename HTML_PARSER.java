@@ -387,9 +387,9 @@ public class HTML_PARSER {
 			System.out.println("\n     PAGE RANKING\n");
 			AlexaSEO obj = new AlexaSEO();
 			System.out
-					.println(" World Ranking : " + obj.getAlexaRanking(line1));
+					.println("(lower is better) World Ranking : " + obj.getAlexaRanking(line1));
 			GoogleSeoHelper obj2 = new GoogleSeoHelper();
-			System.out.println("Google Page rank: " + obj2.getPR(line1));
+			System.out.println("(higher is better) Google Page rank: " + obj2.getPR(line1));
 			// Page Ranking
 		} catch (IOException e) {
 			e.printStackTrace();
