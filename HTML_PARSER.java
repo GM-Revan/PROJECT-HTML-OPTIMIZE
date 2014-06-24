@@ -314,19 +314,19 @@ public class HTML_PARSER {
 
 			// Output
 			System.out.println("Total Comments: " + commentsAmount + "\n");
-			System.out.println("Styles inside HTML: " + style);
+			System.out.println("External Scripts: " + se );
 			System.out.println("Scripts inside HTML: "
 					+ doc.getElementsByTag("script").size() + "\n");
 			System.out.println("Total tags: " + doc.getAllElements().size());
 			System.out.println("Distinct tags:  " + dt + "\n");
 			System.out.println("HTML 5 Total tags: " + h);
 			System.out.println("HTML 5 Distinct tags: " + dtags5 + "\n");
+			System.out.println("Styles inside HTML: " + style);
 			System.out.println("external css files: " + c);
 			System.out.println("CSSinside head: " + name);
 			System.out.println("Styles(tags and atts) Inside Body: "
 					+ stylebody);
 			System.out.println("External Css Inside Body: " + d + "\n");
-			System.out.println("External Scripts: " + se + "\n");
 			System.out.println("total attributes " + att);
 			System.out.println("Distinct Attributes: " + da);
 			System.out.println("total attribute Values " + totalval);
