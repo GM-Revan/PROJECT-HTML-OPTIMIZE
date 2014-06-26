@@ -5,7 +5,7 @@ package project;
  * 
  * HTML Optimization Statistics Algorithm by George Michalitsis & Kiriakos Mpiziklis 2014.
  * 
- * You may use this code any way you wish, private, educational, or commercial.
+ * You may use this code any way you wish, private, or educational.
  * It's free. See: https://github.com/GM-Revan/PROJECT-HTML-OPTIMIZE/blob/master/HTML_PARSER2.java
  * 
  */
