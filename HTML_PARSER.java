@@ -389,6 +389,10 @@ public class HTML_PARSER {
 					+ doc.getElementsByAttribute("style").toString().length()
 					+ countchars;
 			System.out.println("Total characters: " + Countchar);
+			System.out
+					.println("HTML characters: "
+							+ (Countchar - (countscriptchar + countCss
+									+ comchar + countBlank)));
 			System.out.println("Total Script characters: " + countscriptchar);
 			System.out.println("Total Css characters: " + countCss);
 			System.out.println("Total Comment characters: " + comchar);
