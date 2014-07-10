@@ -1,11 +1,11 @@
 package project;
 
 /**
- *            TECHNOLOGICAL EDUCATIONAL INSTITUTE OF MESSOLONGHI.
+ * TECHNOLOGICAL EDUCATIONAL INSTITUTE OF MESSOLONGHI.
  * 
  * HTML Optimization Statistics Algorithm by George Michalitsis & Kiriakos Mpiziklis 2014.
  * 
- * You may use this code for private, or educational purposes.
+ * You may use this code any way you wish, private, educational, or commercial.
  * It's free. See: https://github.com/GM-Revan/PROJECT-HTML-OPTIMIZE/blob/master/HTML_PARSER2.java
  * 
  */
@@ -34,13 +34,15 @@ public class HTML_PARSER {
 	static int domcounter = 0;
 	static int domav = 0;
 	static int domax = 0;
+	static int tables = 0;
 
 	// MAIN PROGRAM
 	public static void main(String[] args) {
 		Document doc;
 
+		// TeeoutputStream File writer
 		try {
-			// TeeoutputStream Filewriter
+
 			File f = new File("c:/Output.txt");
 			if (!f.exists()) {
 				try {
@@ -58,7 +60,7 @@ public class HTML_PARSER {
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
-			// TeeoutputStream Filewriter
+			// TeeoutputStream File writer
 
 			// Connect to TXT Link
 			File link = new File("C:/links.txt");
@@ -73,6 +75,39 @@ public class HTML_PARSER {
 			doc = Jsoup.connect(line1).get();
 			// Connect to TXT Link
 			int c = 0, commentsAmount = 0;
+			// Whitespace count
+			String doctoString = doc.toString();
+			int countBlank = 0;
+
+			for (int i = 0; i < doctoString.length(); i++) {
+				if (Character.isWhitespace(doctoString.charAt(i))) {
+					countBlank++;
+				}
+			}
+
+			// Whitespace count
+			// flash inside HTML
+			int flash = 0;
+
+			for (Element vers : doc.select("[content*=.swf]")) {
+				flash++;
+				System.out.println(vers);
+			}
+			for (Element vers : doc.select("[src*=.swf]")) {
+				flash++;
+				System.out.println(vers);
+			}
+
+			for (Element scriptElement : doc.getElementsByTag("script")) {
+				String elemenscript = scriptElement.toString();
+				if (elemenscript.contains(".swf")) {
+					System.out.println("\n" + "Adobe Flash Website");
+					break;
+
+				}
+			}
+
+			// flash inside HTML
 
 			// Version
 			for (Element e : doc.getAllElements()) {
@@ -82,7 +117,7 @@ public class HTML_PARSER {
 						int intIndex = o.indexOf("WordPress");
 						if (intIndex == -1) {
 						} else {
-							System.out.println("CMS :Wordpress ");
+							System.out.println("\nCMS :Wordpress ");
 						}
 						break;
 					}
@@ -90,11 +125,11 @@ public class HTML_PARSER {
 
 			}
 			for (Element vers : doc.select("[content*=Joomla!]")) {
-				System.out.println("CMS: Joomla!");
+				System.out.println("\nCMS: Joomla!");
 				break;
 			}
 			for (Element vers : doc.select("[content*=Drupal]")) {
-				System.out.println("CMS: Drupal");
+				System.out.println("\nCMS: Drupal");
 				break;
 			}
 			List<Node> nods = doc.childNodes();
@@ -221,7 +256,10 @@ public class HTML_PARSER {
 				}
 			}
 			// external Css
-
+			// styles
+			int style = doc.getElementsByTag("style").size()
+					+ doc.getElementsByAttribute("style").size();
+			// styles
 			// Total and Distinct Attributes
 			int att = 0;
 			List<String> atts = new ArrayList<String>();
@@ -299,11 +337,6 @@ public class HTML_PARSER {
 			}
 			// HTML5 Distinct Tags
 
-			// styles
-			int style = doc.getElementsByTag("style").size()
-					+ doc.getElementsByAttribute("style").size();
-			// styles
-
 			// tags
 			List<String> tags = new ArrayList<String>();
 			for (Element e : doc.getAllElements()) {
@@ -314,7 +347,7 @@ public class HTML_PARSER {
 
 			// Output
 			System.out.println("Total Comments: " + commentsAmount + "\n");
-			System.out.println("External Scripts: " + se );
+			System.out.println("External Scripts: " + se);
 			System.out.println("Scripts inside HTML: "
 					+ doc.getElementsByTag("script").size() + "\n");
 			System.out.println("Total tags: " + doc.getAllElements().size());
@@ -335,13 +368,20 @@ public class HTML_PARSER {
 			System.out.println("DOM max depth: " + domax + "\n");
 			System.out.println("Class Average Length: " + tclass);
 			System.out.println("ID Average Length: " + tid + "\n");
+			System.out.println("JApplets inside html: "
+					+ doc.getElementsByTag("applet").size());
+			System.out.println("Flash Content inside html: " + flash + "\n");
+			System.out.println("Nested tables: "
+					+ doc.select("table table").size() + "\n");
+
 			// System.out.println("Duplicate IDs are " +
 			// findDuplicates(idlist));
 			// Output
 
 			// Count Chars
-			String doctoString = doc.toString();
+
 			File file = new File("c:/HTML.txt");
+
 			int Countchar = doctoString.length();
 			Elements scriptcount = doc.getElementsByTag("script");
 			int countscriptchar = scriptcount.toString().length();
@@ -352,6 +392,7 @@ public class HTML_PARSER {
 			System.out.println("Total Script characters: " + countscriptchar);
 			System.out.println("Total Css characters: " + countCss);
 			System.out.println("Total Comment characters: " + comchar);
+			System.out.println("Total Whitespace characters: " + countBlank);
 
 			try (FileOutputStream fop = new FileOutputStream(file)) {
 				// if file doesn't exists, then create it
@@ -386,10 +427,11 @@ public class HTML_PARSER {
 			// Page Ranking
 			System.out.println("\n     PAGE RANKING\n");
 			AlexaSEO obj = new AlexaSEO();
-			System.out
-					.println("(lower is better) World Ranking : " + obj.getAlexaRanking(line1));
+			System.out.println("(lower is better) World Ranking : "
+					+ obj.getAlexaRanking(line1));
 			GoogleSeoHelper obj2 = new GoogleSeoHelper();
-			System.out.println("(higher is better) Google Page rank: " + obj2.getPR(line1));
+			System.out.println("(higher is better) Google Page rank: "
+					+ obj2.getPR(line1));
 			// Page Ranking
 		} catch (IOException e) {
 			e.printStackTrace();
