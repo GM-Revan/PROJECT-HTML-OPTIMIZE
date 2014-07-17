@@ -16,8 +16,8 @@ Distinct tags:  31
 HTML 5 Total tags: 7
 HTML 5 Distinct tags: 1
 [[
-Html5 tagname::article
-Html5 tag size:7
+Html5 tagname:article
+Html5 tag appearance:7
 ]]
 
 Styles inside HTML: 70
@@ -33,11 +33,11 @@ Distinct Attributes: 32
 total attribute Values 1320
 Distinct Attribute Values: 463
 
-DOM average depth: 17.0
+DOM average depth: 17
 DOM max depth: 25
 
-Class Average Length: 6
-ID Average Length: 8.0
+Class Average Length: 6.650964
+ID Average Length: 8.592592
 
 JApplets inside html: 0
 Flash Content inside html: 0
