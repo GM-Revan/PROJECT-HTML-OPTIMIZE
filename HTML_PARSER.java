@@ -369,7 +369,7 @@ public class HTML_PARSER {
 					String line = scanner.nextLine();
 					h = doc.select(line).size() + h;
 					if (doc.select(line).size() > 0) {
-						System.out.println("Html5 tagname::" + line);
+						System.out.println("Html5 appearance:" + line);
 						System.out.println("Html5 tag size:"
 								+ doc.select(line).size());
 					}
