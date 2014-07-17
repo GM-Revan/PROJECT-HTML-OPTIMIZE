@@ -176,7 +176,7 @@ public class HTML_PARSER {
 			// Duplicate IDs
 
 			// IdLength
-			int tid = 0;
+			float tid = 0;
 			List<String> idval = new ArrayList<String>();
 			String idname;
 			int l = 0, average2 = 0;
@@ -282,6 +282,10 @@ public class HTML_PARSER {
 				}
 			}
 			// scripts external
+			// scripts inside head
+			Element scr = doc.head();
+
+			// scripts inside head
 
 			// css head
 			Element s = doc.body();
@@ -349,16 +353,41 @@ public class HTML_PARSER {
 			System.out.println("Total Comments: " + commentsAmount + "\n");
 			System.out.println("External Scripts: " + se);
 			System.out.println("Scripts inside HTML: "
-					+ doc.getElementsByTag("script").size() + "\n");
+					+ doc.getElementsByTag("script").size());
+			System.out.println("Scripts inside Head: "
+					+ scr.getElementsByTag("script").size() + "\n");
+
 			System.out.println("Total tags: " + doc.getAllElements().size());
 			System.out.println("Distinct tags:  " + dt + "\n");
 			System.out.println("HTML 5 Total tags: " + h);
-			System.out.println("HTML 5 Distinct tags: " + dtags5 + "\n");
+			System.out.println("HTML 5 Distinct tags: " + dtags5);
+			try {
+
+				Scanner scanner = new Scanner(text);
+				System.out.println("[[");
+				while (scanner.hasNextLine()) {
+					String line = scanner.nextLine();
+					h = doc.select(line).size() + h;
+					if (doc.select(line).size() > 0) {
+						System.out.println("Html5 tagname::" + line);
+						System.out.println("Html5 tag size:"
+								+ doc.select(line).size());
+					}
+				}
+				System.out.println("]]" + "\n");
+
+			} catch (FileNotFoundException e) {
+				e.printStackTrace();
+			}
 			System.out.println("Styles inside HTML: " + style);
+			System.out.println("[[total style tags: "
+					+ doc.getElementsByTag("style").size());
+			System.out.println("total style atts: "
+					+ doc.getElementsByAttribute("style").size() + "]]");
 			System.out.println("external css files: " + c);
 			System.out.println("CSSinside head: " + name);
-			System.out.println("Styles(tags and atts) Inside Body: "
-					+ stylebody);
+			System.out.println("[[Styles(tags and atts) Inside Body: "
+					+ stylebody + "]]");
 			System.out.println("External Css Inside Body: " + d + "\n");
 			System.out.println("total attributes " + att);
 			System.out.println("Distinct Attributes: " + da);
@@ -373,11 +402,9 @@ public class HTML_PARSER {
 			System.out.println("Flash Content inside html: " + flash + "\n");
 			System.out.println("Nested tables: "
 					+ doc.select("table table").size() + "\n");
-
 			// System.out.println("Duplicate IDs are " +
 			// findDuplicates(idlist));
 			// Output
-
 			// Count Chars
 
 			File file = new File("c:/HTML.txt");
@@ -391,13 +418,14 @@ public class HTML_PARSER {
 			System.out.println("Total characters: " + Countchar);
 			System.out
 					.println("HTML characters: "
-							+ (Countchar - (countscriptchar + countCss
-									+ comchar + countBlank)));
+							+ (Countchar - (doc.select("body").text().length()
+									+ countscriptchar + countCss + comchar + countBlank)));
 			System.out.println("Total Script characters: " + countscriptchar);
 			System.out.println("Total Css characters: " + countCss);
 			System.out.println("Total Comment characters: " + comchar);
 			System.out.println("Total Whitespace characters: " + countBlank);
-
+			System.out.println("Total text Charachters: "
+					+ doc.select("body").text().length());
 			try (FileOutputStream fop = new FileOutputStream(file)) {
 				// if file doesn't exists, then create it
 				if (!file.exists()) {
