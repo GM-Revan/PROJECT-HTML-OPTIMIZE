@@ -8,17 +8,24 @@ Total Comments: 6
 
 External Scripts: 10
 Scripts inside HTML: 14
+Scripts inside Head: 13
 
 Total tags: 1070
 Distinct tags:  31
 
 HTML 5 Total tags: 7
 HTML 5 Distinct tags: 1
+[[
+Html5 tagname::article
+Html5 tag size:7
+]]
 
 Styles inside HTML: 70
+[[total style tags: 1
+total style atts: 69]]
 external css files: 12
 CSSinside head: FALSE
-Styles(tags and atts) Inside Body: 69
+[[Styles(tags and atts) Inside Body: 69]]
 External Css Inside Body: 0
 
 total attributes 1320
@@ -30,7 +37,7 @@ DOM average depth: 17.0
 DOM max depth: 25
 
 Class Average Length: 6
-ID Average Length: 8
+ID Average Length: 8.0
 
 JApplets inside html: 0
 Flash Content inside html: 0
@@ -38,11 +45,12 @@ Flash Content inside html: 0
 Nested tables: 0
 
 Total characters: 84840
-HTML characters: 51282
+HTML characters: 42151
 Total Script characters: 1450
 Total Css characters: 8778
 Total Comment characters: 122
 Total Whitespace characters: 23208
+Total text Charachters: 9131
 
      Halstead Complexity Measures
 
@@ -53,10 +61,10 @@ Volume= 33534.389450274444
      Halstead Complexity Measures <<HTml 5 tags>>
 
 Vocabulary= 496
-Length= 2647
-Volume= 23701.75763359406
+Length= 2654
+Volume= 23764.43700776677
 
      PAGE RANKING
 
-(lower is better) World Ranking : 618319
+(lower is better) World Ranking : 666019
 (higher is better) Google Page rank: 5
