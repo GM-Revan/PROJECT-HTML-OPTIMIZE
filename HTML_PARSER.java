@@ -179,7 +179,7 @@ public class HTML_PARSER {
 			float tid = 0;
 			List<String> idval = new ArrayList<String>();
 			String idname;
-			int l = 0, average2 = 0;
+			float l = 0, average2 = 0;
 			for (Element element2 : doc.getAllElements()) {
 				idname = element2.id();
 				if (idname.length() > 0)
@@ -197,7 +197,8 @@ public class HTML_PARSER {
 			// IdLength
 
 			// Classlength
-			int g = 0, average = 0, tclass = 0;
+			float g = 0, average = 0;
+			float tclass = 0;
 			List<String> classval = new ArrayList<String>();
 			for (Element element2 : doc.getAllElements()) {
 				for (String attribute : element2.classNames()) {
@@ -244,7 +245,7 @@ public class HTML_PARSER {
 				public void tail(Node node, int depth) {
 				}
 			});
-			float totaldom = domav / domcounter;
+			int totaldom = domav / domcounter;
 			// DOM
 
 			// External Css
@@ -369,8 +370,8 @@ public class HTML_PARSER {
 					String line = scanner.nextLine();
 					h = doc.select(line).size() + h;
 					if (doc.select(line).size() > 0) {
-						System.out.println("Html5 appearance:" + line);
-						System.out.println("Html5 tag size:"
+						System.out.println("Html5 tagname:" + line);
+						System.out.println("Html5 tag appearance:"
 								+ doc.select(line).size());
 					}
 				}
