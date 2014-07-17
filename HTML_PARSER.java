@@ -365,30 +365,28 @@ public class HTML_PARSER {
 			try {
 
 				Scanner scanner = new Scanner(text);
-				System.out.println("[[");
 				while (scanner.hasNextLine()) {
 					String line = scanner.nextLine();
 					h = doc.select(line).size() + h;
 					if (doc.select(line).size() > 0) {
 						System.out.println("Html5 tagname:" + line);
 						System.out.println("Html5 tag appearance:"
-								+ doc.select(line).size());
+								+ doc.select(line).size()+"\n");
 					}
 				}
-				System.out.println("]]" + "\n");
 
 			} catch (FileNotFoundException e) {
 				e.printStackTrace();
 			}
 			System.out.println("Styles inside HTML: " + style);
-			System.out.println("[[total style tags: "
+			System.out.println("total style tags: "
 					+ doc.getElementsByTag("style").size());
 			System.out.println("total style atts: "
-					+ doc.getElementsByAttribute("style").size() + "]]");
+					+ doc.getElementsByAttribute("style").size());
 			System.out.println("external css files: " + c);
 			System.out.println("CSSinside head: " + name);
-			System.out.println("[[Styles(tags and atts) Inside Body: "
-					+ stylebody + "]]");
+			System.out.println("Styles(tags and atts) Inside Body: "
+					+ stylebody);
 			System.out.println("External Css Inside Body: " + d + "\n");
 			System.out.println("total attributes " + att);
 			System.out.println("Distinct Attributes: " + da);
