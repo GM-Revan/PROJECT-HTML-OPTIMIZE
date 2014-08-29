@@ -1,68 +1,7101 @@
-Link: http://www.tesyd.teimes.gr/www/
+Link: http://www.addthis.com/
 
-CMS: Joomla!
+Version: HTML 5
 
-Version:-//W3C//DTD XHTML 1.0 Transitional//EN
+Total Comments: 4
 
-Total Comments: 6
+External Scripts: 11
+Scripts inside HTML: 17
+Scripts inside Head: 3
 
-External Scripts: 10
-Scripts inside HTML: 14
-Scripts inside Head: 13
+Total tags: 356
+Distinct tags:  23
 
-Total tags: 1070
-Distinct tags:  31
+HTML 5 Total tags: 4
+HTML 5 Distinct tags: 4
+Html5 tagname:footer
+Html5 tag appearance:1
 
-HTML 5 Total tags: 7
-HTML 5 Distinct tags: 1
-Html5 tagname:article
-Html5 tag appearance:7
+Html5 tagname:header
+Html5 tag appearance:1
 
-Styles inside HTML: 70
-total style tags: 1
-total style atts: 69
-external css files: 12
-CSSinside head: FALSE
-Styles(tags and atts) Inside Body: 69
+Html5 tagname:nav
+Html5 tag appearance:1
+
+Html5 tagname:section
+Html5 tag appearance:1
+
+Styles inside HTML: 0
+total style tags: 0
+total style atts: 0
+external css files: 5
+CSSinside head: TRUE
+Styles(tags and atts) Inside Body: 0
 External Css Inside Body: 0
 
-total attributes 1320
-Distinct Attributes: 32
-total attribute Values 1320
-Distinct Attribute Values: 463
+total attributes 441
+Distinct Attributes: 20
+total attribute Values 439
+Distinct Attribute Values: 232
 
-DOM average depth: 17
-DOM max depth: 25
+DOM average depth: 7
+DOM max depth: 12
 
-Class Average Length: 6.650964
-ID Average Length: 8.592592
+Class Average Length: 9.509363
+ID Average Length: 12.333333
 
 JApplets inside html: 0
 Flash Content inside html: 0
 
 Nested tables: 0
 
-Total characters: 84840
-HTML characters: 42151
-Total Script characters: 1450
-Total Css characters: 8778
-Total Comment characters: 122
-Total Whitespace characters: 23208
-Total text Charachters: 9131
+Total characters: 29169
+HTML characters: -16533
+Total Script characters: 2391
+Total Css characters: 561
+Total Comment characters: 202
+Total Whitespace characters: 6747
+Total text Charachters: 2735
 
      Halstead Complexity Measures
 
-Vocabulary= 526
-Length= 3710
-Volume= 33534.389450274444
+Vocabulary= 275
+Length= 1236
+Volume= 10015.66373119726
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 256
+Length= 888
+Volume= 7104.0
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 196
+(higher is better) Google Page rank: 10
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.usa.gov/
+
+Version: HTML 5
+
+Total Comments: 205
+
+External Scripts: 9
+Scripts inside HTML: 17
+Scripts inside Head: 7
+
+Total tags: 400
+Distinct tags:  24
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 4
+total style tags: 0
+total style atts: 4
+external css files: 5
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 4
+External Css Inside Body: 0
+
+total attributes 411
+Distinct Attributes: 30
+total attribute Values 408
+Distinct Attribute Values: 265
+
+DOM average depth: 8
+DOM max depth: 16
+
+Class Average Length: 8.639785
+ID Average Length: 11.233334
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 33320
+HTML characters: -11179
+Total Script characters: 2852
+Total Css characters: 612
+Total Comment characters: 8105
+Total Whitespace characters: 7328
+Total text Charachters: 3244
+
+     Halstead Complexity Measures
+
+Vocabulary= 319
+Length= 1219
+Volume= 10138.925976179375
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 295
+Length= 819
+Volume= 6719.543767140099
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 6560
+(higher is better) Google Page rank: 10
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.eua.be/Home.aspx
+
+Version:-//W3C//DTD XHTML 1.0 Transitional//EN
+
+Total Comments: 0
+
+External Scripts: 7
+Scripts inside HTML: 13
+Scripts inside Head: 5
+
+Total tags: 258
+Distinct tags:  27
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 2
+total style tags: 0
+total style atts: 2
+external css files: 5
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 2
+External Css Inside Body: 0
+
+total attributes 287
+Distinct Attributes: 27
+total attribute Values 281
+Distinct Attribute Values: 181
+
+DOM average depth: 8
+DOM max depth: 16
+
+Class Average Length: 11.950617
+ID Average Length: 31.764706
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 30035
+HTML characters: -22212
+Total Script characters: 1634
+Total Css characters: 1098
+Total Comment characters: 0
+Total Whitespace characters: 2104
+Total text Charachters: 2987
+
+     Halstead Complexity Measures
+
+Vocabulary= 235
+Length= 826
+Volume= 6506.00299786269
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 208
+Length= 568
+Volume= 4373.84975990414
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 525066
+(higher is better) Google Page rank: 10
+ 
+ ------------------------------------------------------------------------------------
+
+Link: https://twitter.com/
+
+Version: HTML 5
+
+Total Comments: 4
+
+External Scripts: 1
+Scripts inside HTML: 5
+Scripts inside Head: 3
+
+Total tags: 732
+Distinct tags:  41
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 1
+total style tags: 1
+total style atts: 0
+external css files: 4
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 1
+External Css Inside Body: 0
+
+total attributes 1089
+Distinct Attributes: 51
+total attribute Values 1053
+Distinct Attribute Values: 545
+
+DOM average depth: 8
+DOM max depth: 18
+
+Class Average Length: 11.557568
+ID Average Length: 16.34
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 55464
+HTML characters: -37359
+Total Script characters: 4560
+Total Css characters: 855
+Total Comment characters: 246
+Total Whitespace characters: 8771
+Total text Charachters: 3673
+
+     Halstead Complexity Measures
+
+Vocabulary= 637
+Length= 2874
+Volume= 26771.739841924606
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 596
+Length= 2142
+Volume= 19747.45897082995
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 7
+(higher is better) Google Page rank: 10
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.hhs.gov/
+
+Version:-//W3C//DTD XHTML 1.0 Transitional//EN
+
+Total Comments: 69
+
+External Scripts: 16
+Scripts inside HTML: 23
+Scripts inside Head: 1
+
+Total tags: 417
+Distinct tags:  23
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 13
+total style tags: 0
+total style atts: 13
+external css files: 7
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 13
+External Css Inside Body: 0
+
+total attributes 588
+Distinct Attributes: 36
+total attribute Values 576
+Distinct Attribute Values: 341
+
+DOM average depth: 8
+DOM max depth: 18
+
+Class Average Length: 10.453704
+ID Average Length: 12.222222
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 33020
+HTML characters: -16639
+Total Script characters: 3215
+Total Css characters: 2143
+Total Comment characters: 2335
+Total Whitespace characters: 6135
+Total text Charachters: 2553
+
+     Halstead Complexity Measures
+
+Vocabulary= 400
+Length= 1581
+Volume= 13665.93663603384
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 377
+Length= 1164
+Volume= 9962.001710244727
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 11601
+(higher is better) Google Page rank: 10
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.theeuropeanlibrary.org/tel4/
+
+Version: HTML 5
+
+Total Comments: 8
+
+External Scripts: 7
+Scripts inside HTML: 13
+Scripts inside Head: 10
+
+Total tags: 214
+Distinct tags:  22
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 16
+total style tags: 0
+total style atts: 16
+external css files: 3
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 16
+External Css Inside Body: 0
+
+total attributes 279
+Distinct Attributes: 23
+total attribute Values 278
+Distinct Attribute Values: 189
+
+DOM average depth: 8
+DOM max depth: 18
+
+Class Average Length: 7.1666665
+ID Average Length: 11.217391
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 24152
+HTML characters: -3130
+Total Script characters: 8437
+Total Css characters: 7273
+Total Comment characters: 696
+Total Whitespace characters: 2504
+Total text Charachters: 2112
+
+     Halstead Complexity Measures
+
+Vocabulary= 234
+Length= 771
+Volume= 6068.051198798805
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 212
+Length= 557
+Volume= 4304.451693191702
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 468648
+(higher is better) Google Page rank: 10
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.universitas21.com/
+
+Version: HTML 5
+
+Total Comments: 0
+
+External Scripts: 6
+Scripts inside HTML: 11
+Scripts inside Head: 7
+
+Total tags: 362
+Distinct tags:  18
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 4
+total style tags: 0
+total style atts: 4
+external css files: 6
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 4
+External Css Inside Body: 0
+
+total attributes 383
+Distinct Attributes: 17
+total attribute Values 362
+Distinct Attribute Values: 213
+
+DOM average depth: 8
+DOM max depth: 18
+
+Class Average Length: 6.7987013
+ID Average Length: 8.1875
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 22226
+HTML characters: -11199
+Total Script characters: 2119
+Total Css characters: 943
+Total Comment characters: 0
+Total Whitespace characters: 5193
+Total text Charachters: 2772
+
+     Halstead Complexity Measures
+
+Vocabulary= 248
+Length= 1107
+Volume= 8805.295315598272
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 230
+Length= 745
+Volume= 5844.8900879535595
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 568221
+(higher is better) Google Page rank: 10
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://coimbra-group.eu/
+
+Version: HTML 5
+
+Total Comments: 32
+
+External Scripts: 2
+Scripts inside HTML: 10
+Scripts inside Head: 3
+
+Total tags: 250
+Distinct tags:  27
+
+HTML 5 Total tags: 3
+HTML 5 Distinct tags: 3
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:header
+Html5 tag appearance:1
+
+Html5 tagname:nav
+Html5 tag appearance:1
+
+Styles inside HTML: 2
+total style tags: 0
+total style atts: 2
+external css files: 2
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 2
+External Css Inside Body: 0
+
+total attributes 210
+Distinct Attributes: 26
+total attribute Values 206
+Distinct Attribute Values: 161
+
+DOM average depth: 8
+DOM max depth: 18
+
+Class Average Length: 9.391304
+ID Average Length: 9.37037
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 17214
+HTML characters: -7558
+Total Script characters: 2444
+Total Css characters: 333
+Total Comment characters: 1405
+Total Whitespace characters: 3392
+Total text Charachters: 2082
+
+     Halstead Complexity Measures
+
+Vocabulary= 214
+Length= 666
+Volume= 5155.817012943164
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 190
+Length= 422
+Volume= 3194.47906671566
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 1947020
+(higher is better) Google Page rank: 10
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.leru.org/index.php/public/home/
+
+Version: HTML 5
+
+Total Comments: 9
+
+External Scripts: 5
+Scripts inside HTML: 8
+Scripts inside Head: 2
+
+Total tags: 209
+Distinct tags:  22
+
+HTML 5 Total tags: 3
+HTML 5 Distinct tags: 2
+Html5 tagname:header
+Html5 tag appearance:1
+
+Html5 tagname:nav
+Html5 tag appearance:2
+
+Styles inside HTML: 0
+total style tags: 0
+total style atts: 0
+external css files: 2
+CSSinside head: TRUE
+Styles(tags and atts) Inside Body: 0
+External Css Inside Body: 0
+
+total attributes 270
+Distinct Attributes: 23
+total attribute Values 263
+Distinct Attribute Values: 167
+
+DOM average depth: 8
+DOM max depth: 18
+
+Class Average Length: 9.108844
+ID Average Length: 16.210526
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 15668
+HTML characters: -9985
+Total Script characters: 1309
+Total Css characters: 121
+Total Comment characters: 494
+Total Whitespace characters: 2437
+Total text Charachters: 1322
+
+     Halstead Complexity Measures
+
+Vocabulary= 212
+Length= 742
+Volume= 5734.116977285894
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 192
+Length= 539
+Volume= 4088.294787888703
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 560879
+(higher is better) Google Page rank: 10
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.whitehouse.gov/
+
+Version: HTML 5
+
+Total Comments: 28
+
+External Scripts: 2
+Scripts inside HTML: 8
+Scripts inside Head: 4
+
+Total tags: 938
+Distinct tags:  27
+
+HTML 5 Total tags: 8
+HTML 5 Distinct tags: 2
+Html5 tagname:nav
+Html5 tag appearance:1
+
+Html5 tagname:section
+Html5 tag appearance:7
+
+Styles inside HTML: 8
+total style tags: 2
+total style atts: 6
+external css files: 2
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 8
+External Css Inside Body: 0
+
+total attributes 909
+Distinct Attributes: 28
+total attribute Values 892
+Distinct Attribute Values: 497
+
+DOM average depth: 8
+DOM max depth: 20
+
+Class Average Length: 13.370079
+ID Average Length: 23.402779
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 65256
+HTML characters: -34661
+Total Script characters: 4286
+Total Css characters: 2257
+Total Comment characters: 1682
+Total Whitespace characters: 13972
+Total text Charachters: 8398
+
+     Halstead Complexity Measures
+
+Vocabulary= 552
+Length= 2739
+Volume= 24948.2484871154
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 527
+Length= 1817
+Volume= 16428.694678524822
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 3939
+(higher is better) Google Page rank: 10
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.w3.org/
+
+Version:-//W3C//DTD XHTML 1.0 Strict//EN
+
+Total Comments: 16
+
+External Scripts: 1
+Scripts inside HTML: 1
+Scripts inside Head: 0
+
+Total tags: 577
+Distinct tags:  31
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 3
+total style tags: 1
+total style atts: 2
+external css files: 3
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 2
+External Css Inside Body: 0
+
+total attributes 764
+Distinct Attributes: 25
+total attribute Values 760
+Distinct Attribute Values: 361
+
+DOM average depth: 9
+DOM max depth: 20
+
+Class Average Length: 7.026506
+ID Average Length: 15.269231
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 36007
+HTML characters: -19543
+Total Script characters: 62
+Total Css characters: 819
+Total Comment characters: 1296
+Total Whitespace characters: 6950
+Total text Charachters: 7337
+
+     Halstead Complexity Measures
+
+Vocabulary= 417
+Length= 2101
+Volume= 18286.90140780724
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 386
+Length= 1524
+Volume= 13094.904524796557
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 473
+(higher is better) Google Page rank: 9
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://wordpress.org/
+
+Version: HTML 5
+
+Total Comments: 4
+
+External Scripts: 2
+Scripts inside HTML: 9
+Scripts inside Head: 4
+
+Total tags: 174
+Distinct tags:  25
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 7
+total style tags: 0
+total style atts: 7
+external css files: 4
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 7
+External Css Inside Body: 0
+
+total attributes 213
+Distinct Attributes: 29
+total attribute Values 208
+Distinct Attribute Values: 164
+
+DOM average depth: 9
+DOM max depth: 20
+
+Class Average Length: 7.642857
+ID Average Length: 12.714286
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 12752
+HTML characters: -5219
+Total Script characters: 2317
+Total Css characters: 1656
+Total Comment characters: 201
+Total Whitespace characters: 1798
+Total text Charachters: 1561
+
+     Halstead Complexity Measures
+
+Vocabulary= 218
+Length= 595
+Volume= 4622.069673242271
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 193
+Length= 421
+Volume= 3196.424412689862
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 65
+(higher is better) Google Page rank: 9
+ 
+ ------------------------------------------------------------------------------------
+
+Link: https://www.flickr.com/
+
+Version: HTML 5
+
+Total Comments: 15
+
+External Scripts: 1
+Scripts inside HTML: 18
+Scripts inside Head: 10
+
+Total tags: 237
+Distinct tags:  23
+
+HTML 5 Total tags: 14
+HTML 5 Distinct tags: 2
+Html5 tagname:source
+Html5 tag appearance:10
+
+Html5 tagname:video
+Html5 tag appearance:4
+
+Styles inside HTML: 13
+total style tags: 1
+total style atts: 12
+external css files: 1
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 13
+External Css Inside Body: 0
+
+total attributes 343
+Distinct Attributes: 25
+total attribute Values 338
+Distinct Attribute Values: 238
+
+DOM average depth: 9
+DOM max depth: 20
+
+Class Average Length: 10.359155
+ID Average Length: 15.808511
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 163739
+HTML characters: 2448
+Total Script characters: 122924
+Total Css characters: 21378
+Total Comment characters: 4199
+Total Whitespace characters: 16211
+Total text Charachters: 1475
+
+     Halstead Complexity Measures
+
+Vocabulary= 286
+Length= 918
+Volume= 7490.761887162561
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 265
+Length= 709
+Volume= 5707.342621560449
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 102
+(higher is better) Google Page rank: 9
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.joomla.org/
+
+CMS: Joomla!
+
+Version:-//W3C//DTD XHTML 1.0 Transitional//EN
+
+Total Comments: 21
+
+External Scripts: 3
+Scripts inside HTML: 6
+Scripts inside Head: 4
+
+Total tags: 446
+Distinct tags:  24
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 3
+total style tags: 2
+total style atts: 1
+external css files: 6
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 1
+External Css Inside Body: 0
+
+total attributes 442
+Distinct Attributes: 28
+total attribute Values 442
+Distinct Attribute Values: 258
+
+DOM average depth: 8
+DOM max depth: 20
+
+Class Average Length: 7.6076555
+ID Average Length: 9.16
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 31321
+HTML characters: -15968
+Total Script characters: 642
+Total Css characters: 2381
+Total Comment characters: 1392
+Total Whitespace characters: 6157
+Total text Charachters: 4781
+
+     Halstead Complexity Measures
+
+Vocabulary= 310
+Length= 1330
+Volume= 11007.245459014737
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 286
+Length= 884
+Volume= 7213.326261712096
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 491
+(higher is better) Google Page rank: 9
+ 
+ ------------------------------------------------------------------------------------
+
+Link: https://www.ethz.ch/de.html
+
+Version: HTML 5
+
+Total Comments: 18
+
+External Scripts: 2
+Scripts inside HTML: 9
+Scripts inside Head: 2
+
+Total tags: 780
+Distinct tags:  32
+
+HTML 5 Total tags: 28
+HTML 5 Distinct tags: 6
+Html5 tagname:aside
+Html5 tag appearance:1
+
+Html5 tagname:figure
+Html5 tag appearance:14
+
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:header
+Html5 tag appearance:1
+
+Html5 tagname:nav
+Html5 tag appearance:10
+
+Html5 tagname:section
+Html5 tag appearance:1
+
+Styles inside HTML: 10
+total style tags: 0
+total style atts: 10
+external css files: 4
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 10
+External Css Inside Body: 0
+
+total attributes 800
+Distinct Attributes: 34
+total attribute Values 747
+Distinct Attribute Values: 410
+
+DOM average depth: 9
+DOM max depth: 24
+
+Class Average Length: 9.995349
+ID Average Length: 10.022727
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 59274
+HTML characters: -29432
+Total Script characters: 3252
+Total Css characters: 1633
+Total Comment characters: 5190
+Total Whitespace characters: 14033
+Total text Charachters: 5734
+
+     Halstead Complexity Measures
+
+Vocabulary= 476
+Length= 2327
+Volume= 20698.240935217586
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 450
+Length= 1603
+Volume= 14128.49124952091
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 9829
+(higher is better) Google Page rank: 9
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://india.gov.in/
+
+Version:-//W3C//DTD XHTML 1.0 Transitional//EN
+
+Total Comments: 36
+
+External Scripts: 25
+Scripts inside HTML: 32
+Scripts inside Head: 30
+
+Total tags: 788
+Distinct tags:  20
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 0
+total style tags: 0
+total style atts: 0
+external css files: 52
+CSSinside head: TRUE
+Styles(tags and atts) Inside Body: 0
+External Css Inside Body: 0
+
+total attributes 1036
+Distinct Attributes: 27
+total attribute Values 1019
+Distinct Attribute Values: 583
+
+DOM average depth: 9
+DOM max depth: 27
+
+Class Average Length: 15.015789
+ID Average Length: 18.093023
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 65942
+HTML characters: -36576
+Total Script characters: 3497
+Total Css characters: 5959
+Total Comment characters: 1623
+Total Whitespace characters: 13790
+Total text Charachters: 4497
+
+     Halstead Complexity Measures
+
+Vocabulary= 630
+Length= 2843
+Volume= 26437.648396275035
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 610
+Length= 2055
+Volume= 19014.227463685264
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 13438
+(higher is better) Google Page rank: 9
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://en.unesco.org/
+
+CMS: Drupal
+
+Version: HTML 5
+
+Total Comments: 77
+
+External Scripts: 14
+Scripts inside HTML: 24
+Scripts inside Head: 21
+
+Total tags: 975
+Distinct tags:  28
+
+HTML 5 Total tags: 5
+HTML 5 Distinct tags: 3
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:header
+Html5 tag appearance:1
+
+Html5 tagname:nav
+Html5 tag appearance:3
+
+Styles inside HTML: 1
+total style tags: 0
+total style atts: 1
+external css files: 7
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 1
+External Css Inside Body: 0
+
+total attributes 1314
+Distinct Attributes: 34
+total attribute Values 1274
+Distinct Attribute Values: 534
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 12.453009
+ID Average Length: 19.785715
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 104345
+HTML characters: -56936
+Total Script characters: 14698
+Total Css characters: 1130
+Total Comment characters: 2876
+Total Whitespace characters: 24201
+Total text Charachters: 4504
+
+     Halstead Complexity Measures
+
+Vocabulary= 596
+Length= 3563
+Volume= 32847.89743840668
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 571
+Length= 2598
+Volume= 23790.787338072667
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 7567
+(higher is better) Google Page rank: 9
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.yale.edu/
+
+Version:-//W3C//DTD XHTML 1.0 Transitional//EN
+
+Total Comments: 58
+
+External Scripts: 5
+Scripts inside HTML: 8
+Scripts inside Head: 4
+
+Total tags: 247
+Distinct tags:  31
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 3
+total style tags: 2
+total style atts: 1
+external css files: 2
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 3
+External Css Inside Body: 0
+
+total attributes 332
+Distinct Attributes: 28
+total attribute Values 331
+Distinct Attribute Values: 267
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 7.709677
+ID Average Length: 7.96
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 28779
+HTML characters: -13884
+Total Script characters: 965
+Total Css characters: 489
+Total Comment characters: 7659
+Total Whitespace characters: 3895
+Total text Charachters: 1887
+
+     Halstead Complexity Measures
+
+Vocabulary= 326
+Length= 910
+Volume= 7597.34262035028
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 295
+Length= 663
+Volume= 5439.630668637223
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 5954
+(higher is better) Google Page rank: 9
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://creativecommons.org/
+
+Version: HTML 5
+
+Total Comments: 68
+
+External Scripts: 12
+Scripts inside HTML: 16
+Scripts inside Head: 10
+
+Total tags: 434
+Distinct tags:  27
+
+HTML 5 Total tags: 2
+HTML 5 Distinct tags: 2
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:header
+Html5 tag appearance:1
+
+Styles inside HTML: 7
+total style tags: 2
+total style atts: 5
+external css files: 7
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 5
+External Css Inside Body: 0
+
+total attributes 440
+Distinct Attributes: 27
+total attribute Values 439
+Distinct Attribute Values: 260
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 6.91623
+ID Average Length: 9.44
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 32830
+HTML characters: -12462
+Total Script characters: 1361
+Total Css characters: 3140
+Total Comment characters: 2835
+Total Whitespace characters: 7588
+Total text Charachters: 5444
+
+     Halstead Complexity Measures
+
+Vocabulary= 314
+Length= 1313
+Volume= 10890.837043294705
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 289
+Length= 883
+Volume= 7218.459377648101
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 2004
+(higher is better) Google Page rank: 9
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://store.apple.com/us
+
+Version: HTML 5
+
+Total Comments: 12
+
+External Scripts: 5
+Scripts inside HTML: 27
+Scripts inside Head: 13
+
+Total tags: 1254
+Distinct tags:  31
+
+HTML 5 Total tags: 2
+HTML 5 Distinct tags: 2
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:nav
+Html5 tag appearance:1
+
+Styles inside HTML: 5
+total style tags: 2
+total style atts: 3
+external css files: 7
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 5
+External Css Inside Body: 0
+
+total attributes 1976
+Distinct Attributes: 45
+total attribute Values 1915
+Distinct Attribute Values: 762
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 7.6914377
+ID Average Length: 12.511111
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 137076
+HTML characters: -84003
+Total Script characters: 9052
+Total Css characters: 1885
+Total Comment characters: 538
+Total Whitespace characters: 29360
+Total text Charachters: 12238
+
+     Halstead Complexity Measures
+
+Vocabulary= 838
+Length= 5145
+Volume= 49962.099101383166
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 809
+Length= 3895
+Volume= 37625.684001014764
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 46
+(higher is better) Google Page rank: 9
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.imdb.com/
+
+Version: HTML 5
+
+Total Comments: 33
+
+External Scripts: 4
+Scripts inside HTML: 46
+Scripts inside Head: 17
+
+Total tags: 691
+Distinct tags:  34
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 19
+total style tags: 0
+total style atts: 19
+external css files: 3
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 19
+External Css Inside Body: 0
+
+total attributes 784
+Distinct Attributes: 60
+total attribute Values 781
+Distinct Attribute Values: 482
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 11.731708
+ID Average Length: 12.538462
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 60405
+HTML characters: -22917
+Total Script characters: 13658
+Total Css characters: 5610
+Total Comment characters: 1207
+Total Whitespace characters: 11543
+Total text Charachters: 5470
+
+     Halstead Complexity Measures
+
+Vocabulary= 576
+Length= 2256
+Volume= 20687.35080325386
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 542
+Length= 1565
+Volume= 14213.56324971881
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 47
+(higher is better) Google Page rank: 8
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.aol.com/
+
+Version: HTML 5
+
+Total Comments: 11
+
+External Scripts: 4
+Scripts inside HTML: 49
+Scripts inside Head: 8
+
+Total tags: 1649
+Distinct tags:  34
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 48
+total style tags: 6
+total style atts: 42
+external css files: 2
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 45
+External Css Inside Body: 0
+
+total attributes 2995
+Distinct Attributes: 55
+total attribute Values 2888
+Distinct Attribute Values: 1605
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 11.56954
+ID Average Length: 15.992249
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 183149
+HTML characters: -103448
+Total Script characters: 22239
+Total Css characters: 20625
+Total Comment characters: 467
+Total Whitespace characters: 25524
+Total text Charachters: 10846
+
+     Halstead Complexity Measures
+
+Vocabulary= 1694
+Length= 7532
+Volume= 80789.87517609012
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 1660
+Length= 5883
+Volume= 62930.259956836315
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 117
+(higher is better) Google Page rank: 8
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.amazon.com/
+
+Version:-//W3C//DTD HTML 4.01 Transitional//EN
+
+Total Comments: 25
+
+External Scripts: 0
+Scripts inside HTML: 37
+Scripts inside Head: 7
+
+Total tags: 1709
+Distinct tags:  31
+
+HTML 5 Total tags: 1
+HTML 5 Distinct tags: 1
+Html5 tagname:header
+Html5 tag appearance:1
+
+Styles inside HTML: 133
+total style tags: 14
+total style atts: 119
+external css files: 7
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 129
+External Css Inside Body: 0
+
+total attributes 2387
+Distinct Attributes: 55
+total attribute Values 2354
+Distinct Attribute Values: 917
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 10.235294
+ID Average Length: 16.85821
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 218030
+HTML characters: -15882
+Total Script characters: 58890
+Total Css characters: 97606
+Total Comment characters: 1963
+Total Whitespace characters: 31678
+Total text Charachters: 12011
+
+     Halstead Complexity Measures
+
+Vocabulary= 1003
+Length= 6450
+Volume= 64307.18299444857
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 973
+Length= 4743
+Volume= 47080.42190324682
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 10
+(higher is better) Google Page rank: 8
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.latimes.com/
+
+Version: HTML 5
+
+Total Comments: 3
+
+External Scripts: 7
+Scripts inside HTML: 22
+Scripts inside Head: 3
+
+Total tags: 1419
+Distinct tags:  28
+
+HTML 5 Total tags: 141
+HTML 5 Distinct tags: 7
+Html5 tagname:article
+Html5 tag appearance:4
+
+Html5 tagname:aside
+Html5 tag appearance:17
+
+Html5 tagname:figure
+Html5 tag appearance:29
+
+Html5 tagname:header
+Html5 tag appearance:1
+
+Html5 tagname:nav
+Html5 tag appearance:1
+
+Html5 tagname:section
+Html5 tag appearance:79
+
+Html5 tagname:time
+Html5 tag appearance:10
+
+Styles inside HTML: 5
+total style tags: 1
+total style atts: 4
+external css files: 4
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 4
+External Css Inside Body: 0
+
+total attributes 3880
+Distinct Attributes: 102
+total attribute Values 3762
+Distinct Attribute Values: 1298
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 25.168657
+ID Average Length: 16.0
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 292851
+HTML characters: -126634
+Total Script characters: 23186
+Total Css characters: 54390
+Total Comment characters: 40719
+Total Whitespace characters: 32137
+Total text Charachters: 15785
+
+     Halstead Complexity Measures
+
+Vocabulary= 1428
+Length= 9061
+Volume= 94957.28897236768
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 1407
+Length= 7924
+Volume= 82872.41400328629
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 510
+(higher is better) Google Page rank: 8
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.aps.org/
+
+Version:-//W3C//DTD XHTML 1.0 Transitional//EN
+
+Total Comments: 31
+
+External Scripts: 6
+Scripts inside HTML: 13
+Scripts inside Head: 6
+
+Total tags: 496
+Distinct tags:  27
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 27
+total style tags: 1
+total style atts: 26
+external css files: 4
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 26
+External Css Inside Body: 0
+
+total attributes 780
+Distinct Attributes: 30
+total attribute Values 769
+Distinct Attribute Values: 373
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 14.494253
+ID Average Length: 14.04918
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 49377
+HTML characters: -16476
+Total Script characters: 5966
+Total Css characters: 4704
+Total Comment characters: 10579
+Total Whitespace characters: 7015
+Total text Charachters: 4637
+
+     Halstead Complexity Measures
+
+Vocabulary= 430
+Length= 2045
+Volume= 17890.054377410444
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 403
+Length= 1549
+Volume= 13406.031208189821
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 46509
+(higher is better) Google Page rank: 8
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.reuters.com/
+
+Version:-//W3C//DTD XHTML 1.0 Transitional//EN
+
+Total Comments: 21
+
+External Scripts: 23
+Scripts inside HTML: 59
+Scripts inside Head: 20
+
+Total tags: 1080
+Distinct tags:  27
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 7
+total style tags: 3
+total style atts: 4
+external css files: 3
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 5
+External Css Inside Body: 0
+
+total attributes 1373
+Distinct Attributes: 34
+total attribute Values 1285
+Distinct Attribute Values: 545
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 8.565315
+ID Average Length: 11.194691
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 98769
+HTML characters: -59005
+Total Script characters: 11413
+Total Css characters: 2466
+Total Comment characters: 1014
+Total Whitespace characters: 17081
+Total text Charachters: 7790
+
+     Halstead Complexity Measures
+
+Vocabulary= 606
+Length= 3738
+Volume= 34550.984350221894
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 579
+Length= 2658
+Volume= 24393.581131975392
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 306
+(higher is better) Google Page rank: 8
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.jimdo.com/
+
+Version: HTML 5
+
+Total Comments: 8
+
+External Scripts: 13
+Scripts inside HTML: 27
+Scripts inside Head: 10
+
+Total tags: 445
+Distinct tags:  25
+
+HTML 5 Total tags: 8
+HTML 5 Distinct tags: 2
+Html5 tagname:nav
+Html5 tag appearance:1
+
+Html5 tagname:section
+Html5 tag appearance:7
+
+Styles inside HTML: 41
+total style tags: 3
+total style atts: 38
+external css files: 7
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 38
+External Css Inside Body: 0
+
+total attributes 577
+Distinct Attributes: 26
+total attribute Values 560
+Distinct Attribute Values: 341
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 12.243119
+ID Average Length: 14.8
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 41844
+HTML characters: -8477
+Total Script characters: 9712
+Total Css characters: 11182
+Total Comment characters: 501
+Total Whitespace characters: 7924
+Total text Charachters: 4048
+
+     Halstead Complexity Measures
+
+Vocabulary= 392
+Length= 1582
+Volume= 13628.470973390258
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 369
+Length= 1153
+Volume= 9832.180987987636
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 496
+(higher is better) Google Page rank: 8
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://uk.ign.com/
+
+Version: HTML 5
+
+Total Comments: 2
+
+External Scripts: 9
+Scripts inside HTML: 16
+Scripts inside Head: 8
+
+Total tags: 742
+Distinct tags:  30
+
+HTML 5 Total tags: 51
+HTML 5 Distinct tags: 5
+Html5 tagname:article
+Html5 tag appearance:22
+
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:header
+Html5 tag appearance:1
+
+Html5 tagname:nav
+Html5 tag appearance:5
+
+Html5 tagname:time
+Html5 tag appearance:22
+
+Styles inside HTML: 47
+total style tags: 27
+total style atts: 20
+external css files: 3
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 47
+External Css Inside Body: 0
+
+total attributes 901
+Distinct Attributes: 39
+total attribute Values 865
+Distinct Attribute Values: 448
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 7.4112425
+ID Average Length: 11.5
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 70833
+HTML characters: -35959
+Total Script characters: 3448
+Total Css characters: 15458
+Total Comment characters: 99
+Total Whitespace characters: 8185
+Total text Charachters: 7684
+
+     Halstead Complexity Measures
+
+Vocabulary= 517
+Length= 2508
+Volume= 22607.163339549854
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 492
+Length= 1868
+Volume= 16704.6170959737
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 324
+(higher is better) Google Page rank: 8
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://time.com/
+
+Version: HTML 5
+
+Total Comments: 9
+
+External Scripts: 10
+Scripts inside HTML: 26
+Scripts inside Head: 7
+
+Total tags: 936
+Distinct tags:  39
+
+HTML 5 Total tags: 110
+HTML 5 Distinct tags: 8
+Html5 tagname:article
+Html5 tag appearance:57
+
+Html5 tagname:figcaption
+Html5 tag appearance:2
+
+Html5 tagname:figure
+Html5 tag appearance:18
+
+Html5 tagname:footer
+Html5 tag appearance:2
+
+Html5 tagname:header
+Html5 tag appearance:3
+
+Html5 tagname:nav
+Html5 tag appearance:3
+
+Html5 tagname:section
+Html5 tag appearance:15
+
+Html5 tagname:time
+Html5 tag appearance:10
+
+Styles inside HTML: 6
+total style tags: 2
+total style atts: 4
+external css files: 2
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 4
+External Css Inside Body: 0
+
+total attributes 1362
+Distinct Attributes: 43
+total attribute Values 1335
+Distinct Attribute Values: 655
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 16.384827
+ID Average Length: 13.595238
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 130823
+HTML characters: -73360
+Total Script characters: 29126
+Total Css characters: 774
+Total Comment characters: 682
+Total Whitespace characters: 16723
+Total text Charachters: 10158
+
+     Halstead Complexity Measures
+
+Vocabulary= 737
+Length= 3633
+Volume= 34606.21709944239
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 706
+Length= 2917
+Volume= 27605.100596832035
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 337
+(higher is better) Google Page rank: 8
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.pcworld.com/
+
+Version: HTML 5
+
+Total Comments: 35
+
+External Scripts: 28
+Scripts inside HTML: 63
+Scripts inside Head: 14
+
+Total tags: 861
+Distinct tags:  30
+
+HTML 5 Total tags: 6
+HTML 5 Distinct tags: 3
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:header
+Html5 tag appearance:2
+
+Html5 tagname:section
+Html5 tag appearance:3
+
+Styles inside HTML: 12
+total style tags: 5
+total style atts: 7
+external css files: 14
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 12
+External Css Inside Body: 0
+
+total attributes 1072
+Distinct Attributes: 49
+total attribute Values 1041
+Distinct Attribute Values: 587
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 10.648452
+ID Average Length: 12.111111
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 110574
+HTML characters: -30598
+Total Script characters: 27578
+Total Css characters: 25806
+Total Comment characters: 1326
+Total Whitespace characters: 18143
+Total text Charachters: 7123
+
+     Halstead Complexity Measures
+
+Vocabulary= 666
+Length= 2974
+Volume= 27894.271263669936
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 639
+Length= 2125
+Volume= 19804.303257012365
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 1320
+(higher is better) Google Page rank: 8
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://unicode.org/
+
+Version:-//W3C//DTD XHTML 1.0 Transitional//EN
+
+Total Comments: 34
+
+External Scripts: 1
+Scripts inside HTML: 1
+Scripts inside Head: 1
+
+Total tags: 371
+Distinct tags:  23
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 23
+total style tags: 1
+total style atts: 22
+external css files: 2
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 22
+External Css Inside Body: 0
+
+total attributes 316
+Distinct Attributes: 24
+total attribute Values 304
+Distinct Attribute Values: 195
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 7.826923
+ID Average Length: 9.727273
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 1
+
+Total characters: 23083
+HTML characters: -9994
+Total Script characters: 36
+Total Css characters: 2469
+Total Comment characters: 2922
+Total Whitespace characters: 4257
+Total text Charachters: 3405
+
+     Halstead Complexity Measures
+
+Vocabulary= 242
+Length= 991
+Volume= 7847.5934681391245
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 219
+Length= 620
+Volume= 4820.367976952728
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 36288
+(higher is better) Google Page rank: 7
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.nasdaq.com/
+
+Version: HTML 5
+
+Total Comments: 126
+
+External Scripts: 15
+Scripts inside HTML: 47
+Scripts inside Head: 8
+
+Total tags: 1515
+Distinct tags:  43
+
+HTML 5 Total tags: 2
+HTML 5 Distinct tags: 2
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:nav
+Html5 tag appearance:1
+
+Styles inside HTML: 13
+total style tags: 1
+total style atts: 12
+external css files: 2
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 12
+External Css Inside Body: 0
+
+total attributes 1392
+Distinct Attributes: 47
+total attribute Values 1375
+Distinct Attribute Values: 760
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 9.316865
+ID Average Length: 15.68
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 127975
+HTML characters: -61108
+Total Script characters: 18963
+Total Css characters: 701
+Total Comment characters: 8219
+Total Whitespace characters: 29089
+Total text Charachters: 9895
+
+     Halstead Complexity Measures
+
+Vocabulary= 850
+Length= 4282
+Volume= 41669.508090849326
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 809
+Length= 2771
+Volume= 26767.848617923468
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 2593
+(higher is better) Google Page rank: 7
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.bestbuy.com/
+
+Version: HTML 5
+
+Total Comments: 5
+
+External Scripts: 4
+Scripts inside HTML: 5
+Scripts inside Head: 3
+
+Total tags: 64
+Distinct tags:  19
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 3
+total style tags: 1
+total style atts: 2
+external css files: 2
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 3
+External Css Inside Body: 0
+
+total attributes 70
+Distinct Attributes: 13
+total attribute Values 70
+Distinct Attribute Values: 57
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 9.25
+ID Average Length: 9.222222
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 5043
+HTML characters: -785
+Total Script characters: 349
+Total Css characters: 1747
+Total Comment characters: 212
+Total Whitespace characters: 993
+Total text Charachters: 957
+
+     Halstead Complexity Measures
+
+Vocabulary= 89
+Length= 204
+Volume= 1321.049619917145
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 70
+Length= 140
+Volume= 858.0996223722955
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 353
+(higher is better) Google Page rank: 7
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.walmart.com/
+
+Version: HTML 5
+
+Total Comments: 42
+
+External Scripts: 7
+Scripts inside HTML: 15
+Scripts inside Head: 5
+
+Total tags: 1422
+Distinct tags:  36
+
+HTML 5 Total tags: 41
+HTML 5 Distinct tags: 4
+Html5 tagname:article
+Html5 tag appearance:21
+
+Html5 tagname:header
+Html5 tag appearance:1
+
+Html5 tagname:nav
+Html5 tag appearance:4
+
+Html5 tagname:section
+Html5 tag appearance:15
+
+Styles inside HTML: 143
+total style tags: 2
+total style atts: 141
+external css files: 2
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 141
+External Css Inside Body: 0
+
+total attributes 2211
+Distinct Attributes: 50
+total attribute Values 2201
+Distinct Attribute Values: 1590
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 9.897339
+ID Average Length: 12.906977
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 163397
+HTML characters: -89256
+Total Script characters: 12405
+Total Css characters: 27676
+Total Comment characters: 2619
+Total Whitespace characters: 20831
+Total text Charachters: 10610
+
+     Halstead Complexity Measures
+
+Vocabulary= 1676
+Length= 5834
+Volume= 62486.844734202015
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 1644
+Length= 4494
+Volume= 48009.37765906548
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 184
+(higher is better) Google Page rank: 7
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.investopedia.com/
+
+Version:-//W3C//DTD XHTML 1.0 Transitional//EN
+
+Total Comments: 152
+
+External Scripts: 13
+Scripts inside HTML: 56
+Scripts inside Head: 14
+
+Total tags: 982
+Distinct tags:  30
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 55
+total style tags: 0
+total style atts: 55
+external css files: 2
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 55
+External Css Inside Body: 0
+
+total attributes 1080
+Distinct Attributes: 39
+total attribute Values 1062
+Distinct Attribute Values: 521
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 8.476449
+ID Average Length: 16.806452
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 104927
+HTML characters: -7516
+Total Script characters: 37520
+Total Css characters: 21718
+Total Comment characters: 5403
+Total Whitespace characters: 22533
+Total text Charachters: 10237
+
+     Halstead Complexity Measures
+
+Vocabulary= 590
+Length= 3124
+Volume= 28755.080254634515
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 560
+Length= 2142
+Volume= 19554.92422229612
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 1187
+(higher is better) Google Page rank: 7
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.mirror.co.uk/
+
+Version: HTML 5
+
+Total Comments: 232
+
+External Scripts: 6
+Scripts inside HTML: 30
+Scripts inside Head: 11
+
+Total tags: 1433
+Distinct tags:  35
+
+HTML 5 Total tags: 159
+HTML 5 Distinct tags: 5
+Html5 tagname:figcaption
+Html5 tag appearance:64
+
+Html5 tagname:figure
+Html5 tag appearance:85
+
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:header
+Html5 tag appearance:1
+
+Html5 tagname:nav
+Html5 tag appearance:8
+
+Styles inside HTML: 7
+total style tags: 4
+total style atts: 3
+external css files: 2
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 6
+External Css Inside Body: 0
+
+total attributes 3217
+Distinct Attributes: 41
+total attribute Values 3034
+Distinct Attribute Values: 1199
+
+DOM average depth: 9
+DOM max depth: 27
+
+Class Average Length: 9.0563
+ID Average Length: 12.333333
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 200765
+HTML characters: -124514
+Total Script characters: 7913
+Total Css characters: 3917
+Total Comment characters: 15300
+Total Whitespace characters: 29387
+Total text Charachters: 19734
+
+     Halstead Complexity Measures
+
+Vocabulary= 1275
+Length= 7684
+Volume= 79270.30728993796
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 1245
+Length= 6569
+Volume= 67541.9983470703
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 523
+(higher is better) Google Page rank: 7
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.cnbc.com/
+
+Version: HTML 5
+
+Total Comments: 51
+
+External Scripts: 11
+Scripts inside HTML: 32
+Scripts inside Head: 4
+
+Total tags: 1709
+Distinct tags:  33
+
+HTML 5 Total tags: 19
+HTML 5 Distinct tags: 4
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:header
+Html5 tag appearance:1
+
+Html5 tagname:nav
+Html5 tag appearance:1
+
+Html5 tagname:section
+Html5 tag appearance:16
+
+Styles inside HTML: 1
+total style tags: 0
+total style atts: 1
+external css files: 2
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 1
+External Css Inside Body: 0
+
+total attributes 2023
+Distinct Attributes: 42
+total attribute Values 1997
+Distinct Attribute Values: 891
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 8.411419
+ID Average Length: 15.5079365
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 140563
+HTML characters: -62671
+Total Script characters: 30513
+Total Css characters: 249
+Total Comment characters: 1793
+Total Whitespace characters: 33750
+Total text Charachters: 11587
+
+     Halstead Complexity Measures
+
+Vocabulary= 966
+Length= 5729
+Volume= 56808.072961350146
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 937
+Length= 4058
+Volume= 40060.19145442098
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 688
+(higher is better) Google Page rank: 7
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.hubspot.com/
+
+Version: HTML 5
+
+Total Comments: 157
+
+External Scripts: 17
+Scripts inside HTML: 32
+Scripts inside Head: 6
+
+Total tags: 586
+Distinct tags:  24
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 58
+total style tags: 2
+total style atts: 56
+external css files: 10
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 56
+External Css Inside Body: 0
+
+total attributes 767
+Distinct Attributes: 26
+total attribute Values 711
+Distinct Attribute Values: 386
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 13.534654
+ID Average Length: 24.891304
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 62502
+HTML characters: 96155
+Total Script characters: 9622
+Total Css characters: 123512
+Total Comment characters: 5401
+Total Whitespace characters: 15817
+Total text Charachters: 4305
+
+     Halstead Complexity Measures
+
+Vocabulary= 436
+Length= 2064
+Volume= 18097.532446339577
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 412
+Length= 1478
+Volume= 12838.647779176797
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 517
+(higher is better) Google Page rank: 7
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.businessinsider.com/
+
+Version: HTML 5
+
+Total Comments: 113
+
+External Scripts: 7
+Scripts inside HTML: 37
+Scripts inside Head: 10
+
+Total tags: 1204
+Distinct tags:  34
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 61
+total style tags: 0
+total style atts: 61
+external css files: 3
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 61
+External Css Inside Body: 0
+
+total attributes 1729
+Distinct Attributes: 62
+total attribute Values 1693
+Distinct Attribute Values: 748
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 9.486876
+ID Average Length: 17.72857
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 113497
+HTML characters: -46625
+Total Script characters: 17237
+Total Css characters: 13247
+Total Comment characters: 6301
+Total Whitespace characters: 23619
+Total text Charachters: 6468
+
+     Halstead Complexity Measures
+
+Vocabulary= 844
+Length= 4626
+Volume= 44969.80484695944
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 810
+Length= 3422
+Volume= 33062.60465057574
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 173
+(higher is better) Google Page rank: 7
+ 
+ ------------------------------------------------------------------------------------
+
+Link: https://www.capitalone.com/
+
+Version: HTML 5
+
+Total Comments: 25
+
+External Scripts: 6
+Scripts inside HTML: 24
+Scripts inside Head: 3
+
+Total tags: 936
+Distinct tags:  32
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 10
+total style tags: 0
+total style atts: 10
+external css files: 3
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 10
+External Css Inside Body: 0
+
+total attributes 1379
+Distinct Attributes: 47
+total attribute Values 1372
+Distinct Attribute Values: 611
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 8.814024
+ID Average Length: 15.745341
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 139192
+HTML characters: -75376
+Total Script characters: 5571
+Total Css characters: 28095
+Total Comment characters: 7338
+Total Whitespace characters: 16276
+Total text Charachters: 6536
+
+     Halstead Complexity Measures
+
+Vocabulary= 690
+Length= 3687
+Volume= 34770.07855799082
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 658
+Length= 2751
+Volume= 25754.707321545648
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 396
+(higher is better) Google Page rank: 7
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.business.com/
+
+Version: HTML 5
+
+Total Comments: 13
+
+External Scripts: 5
+Scripts inside HTML: 8
+Scripts inside Head: 6
+
+Total tags: 1340
+Distinct tags:  36
+
+HTML 5 Total tags: 25
+HTML 5 Distinct tags: 5
+Html5 tagname:video
+Html5 tag appearance:1
+
+Html5 tagname:article
+Html5 tag appearance:10
+
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:header
+Html5 tag appearance:10
+
+Html5 tagname:nav
+Html5 tag appearance:3
+
+Styles inside HTML: 7
+total style tags: 2
+total style atts: 5
+external css files: 4
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 5
+External Css Inside Body: 0
+
+total attributes 1142
+Distinct Attributes: 39
+total attribute Values 1132
+Distinct Attribute Values: 629
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 7.7716537
+ID Average Length: 10.902913
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 109696
+HTML characters: -38815
+Total Script characters: 11248
+Total Css characters: 27078
+Total Comment characters: 587
+Total Whitespace characters: 17440
+Total text Charachters: 14528
+
+     Halstead Complexity Measures
+
+Vocabulary= 704
+Length= 3614
+Volume= 34186.38586975519
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 673
+Length= 2324
+Volume= 21832.731302274377
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 16390
+(higher is better) Google Page rank: 6
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.ivillage.com/
+
+Version:-//W3C//DTD XHTML 1.0 Strict//EN
+
+Total Comments: 25
+
+External Scripts: 18
+Scripts inside HTML: 44
+Scripts inside Head: 18
+
+Total tags: 686
+Distinct tags:  27
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 14
+total style tags: 1
+total style atts: 13
+external css files: 4
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 14
+External Css Inside Body: 0
+
+total attributes 1058
+Distinct Attributes: 45
+total attribute Values 1043
+Distinct Attribute Values: 612
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 10.905376
+ID Average Length: 15.45283
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 81451
+HTML characters: 5168
+Total Script characters: 27116
+Total Css characters: 38995
+Total Comment characters: 1208
+Total Whitespace characters: 15416
+Total text Charachters: 3884
+
+     Halstead Complexity Measures
+
+Vocabulary= 684
+Length= 2787
+Volume= 26247.554958986995
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 657
+Length= 2101
+Volume= 19664.833826237216
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 11104
+(higher is better) Google Page rank: 6
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.t-online.de/
+
+Version: HTML 5
+
+Total Comments: 77
+
+External Scripts: 14
+Scripts inside HTML: 52
+Scripts inside Head: 17
+
+Total tags: 2609
+Distinct tags:  40
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 40
+total style tags: 5
+total style atts: 35
+external css files: 2
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 39
+External Css Inside Body: 0
+
+total attributes 3544
+Distinct Attributes: 59
+total attribute Values 3460
+Distinct Attribute Values: 1469
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 4.479943
+ID Average Length: 8.526067
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 323157
+HTML characters: -236649
+Total Script characters: 12127
+Total Css characters: 9543
+Total Comment characters: 3198
+Total Whitespace characters: 41167
+Total text Charachters: 20473
+
+     Halstead Complexity Measures
+
+Vocabulary= 1568
+Length= 9613
+Volume= 102039.20573147951
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 1528
+Length= 7004
+Volume= 74084.3115115624
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 453
+(higher is better) Google Page rank: 6
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://dejanseo.com.au/
+
+Version: HTML 5
+
+Total Comments: 5
+
+External Scripts: 19
+Scripts inside HTML: 32
+Scripts inside Head: 16
+
+Total tags: 484
+Distinct tags:  30
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 17
+total style tags: 4
+total style atts: 13
+external css files: 12
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 13
+External Css Inside Body: 0
+
+total attributes 658
+Distinct Attributes: 32
+total attribute Values 643
+Distinct Attribute Values: 407
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 11.935606
+ID Average Length: 12.585107
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 49188
+HTML characters: -15290
+Total Script characters: 8417
+Total Css characters: 8740
+Total Comment characters: 807
+Total Whitespace characters: 8072
+Total text Charachters: 7862
+
+     Halstead Complexity Measures
+
+Vocabulary= 469
+Length= 1785
+Volume= 15839.097740839945
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 439
+Length= 1301
+Volume= 11420.278345525501
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 25859
+(higher is better) Google Page rank: 6
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.travelportland.com/
+
+CMS :Wordpress 
+
+Version: HTML 5
+
+CMS :Wordpress 
+CMS :Wordpress 
+Total Comments: 36
+
+External Scripts: 18
+Scripts inside HTML: 25
+Scripts inside Head: 4
+
+Total tags: 997
+Distinct tags:  36
+
+HTML 5 Total tags: 17
+HTML 5 Distinct tags: 6
+Html5 tagname:article
+Html5 tag appearance:5
+
+Html5 tagname:aside
+Html5 tag appearance:4
+
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:header
+Html5 tag appearance:1
+
+Html5 tagname:nav
+Html5 tag appearance:3
+
+Html5 tagname:section
+Html5 tag appearance:3
+
+Styles inside HTML: 7
+total style tags: 0
+total style atts: 7
+external css files: 8
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 7
+External Css Inside Body: 0
+
+total attributes 1340
+Distinct Attributes: 44
+total attribute Values 1306
+Distinct Attribute Values: 644
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 10.010204
+ID Average Length: 12.761905
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 78841
+HTML characters: -54357
+Total Script characters: 2533
+Total Css characters: 1487
+Total Comment characters: 2337
+Total Whitespace characters: 12224
+Total text Charachters: 5903
+
+     Halstead Complexity Measures
+
+Vocabulary= 724
+Length= 3643
+Volume= 34607.938566644116
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 694
+Length= 2680
+Volume= 25295.962164909743
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 107494
+(higher is better) Google Page rank: 6
+ 
+ ------------------------------------------------------------------------------------
+
+Link: https://archive.org/
+
+Version: HTML 5
+
+Total Comments: 23
+
+External Scripts: 2
+Scripts inside HTML: 5
+Scripts inside Head: 2
+
+Total tags: 452
+Distinct tags:  26
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 70
+total style tags: 0
+total style atts: 70
+external css files: 1
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 70
+External Css Inside Body: 0
+
+total attributes 467
+Distinct Attributes: 23
+total attribute Values 466
+Distinct Attribute Values: 273
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 7.4927535
+ID Average Length: 6.5555553
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 1
+
+Total characters: 30463
+HTML characters: 4028
+Total Script characters: 1061
+Total Css characters: 20170
+Total Comment characters: 2869
+Total Whitespace characters: 6845
+Total text Charachters: 3546
+
+     Halstead Complexity Measures
+
+Vocabulary= 322
+Length= 1385
+Volume= 11538.319876188745
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 296
+Length= 933
+Volume= 7659.41999013181
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 189
+(higher is better) Google Page rank: 6
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.newegg.com/
+
+Version:-//W3C//DTD HTML 4.01 Transitional//EN
+
+Total Comments: 21
+
+External Scripts: 18
+Scripts inside HTML: 62
+Scripts inside Head: 22
+
+Total tags: 3122
+Distinct tags:  34
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 65
+total style tags: 0
+total style atts: 65
+external css files: 4
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 65
+External Css Inside Body: 0
+
+total attributes 5598
+Distinct Attributes: 41
+total attribute Values 5563
+Distinct Attribute Values: 2187
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 8.050263
+ID Average Length: 13.352459
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 3
+
+Total characters: 319250
+HTML characters: -207322
+Total Script characters: 43070
+Total Css characters: 12131
+Total Comment characters: 914
+Total Whitespace characters: 39422
+Total text Charachters: 16391
+
+     Halstead Complexity Measures
+
+Vocabulary= 2262
+Length= 14283
+Volume= 159160.9424454166
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 2228
+Length= 11161
+Volume= 124127.43558703212
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 497
+(higher is better) Google Page rank: 6
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.houzz.com/
+
+Version:-//W3C//DTD XHTML 1.0 Strict//EN
+
+Total Comments: 5
+
+External Scripts: 7
+Scripts inside HTML: 29
+Scripts inside Head: 10
+
+Total tags: 1119
+Distinct tags:  28
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 4
+total style tags: 0
+total style atts: 4
+external css files: 3
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 4
+External Css Inside Body: 0
+
+total attributes 2139
+Distinct Attributes: 49
+total attribute Values 2121
+Distinct Attribute Values: 1140
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 11.064211
+ID Average Length: 12.212766
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 120408
+HTML characters: -63337
+Total Script characters: 30794
+Total Css characters: 1677
+Total Comment characters: 376
+Total Whitespace characters: 15840
+Total text Charachters: 8384
+
+     Halstead Complexity Measures
+
+Vocabulary= 1217
+Length= 5379
+Volume= 55129.98126214714
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 1189
+Length= 4260
+Volume= 43518.1705789165
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 507
+(higher is better) Google Page rank: 6
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.thesitewizard.com/
+
+Version:-//W3C//DTD XHTML 1.0 Transitional//EN
+
+Total Comments: 5
+
+External Scripts: 1
+Scripts inside HTML: 1
+Scripts inside Head: 1
+
+Total tags: 935
+Distinct tags:  21
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 1
+total style tags: 1
+total style atts: 0
+external css files: 2
+CSSinside head: TRUE
+Styles(tags and atts) Inside Body: 0
+External Css Inside Body: 0
+
+total attributes 999
+Distinct Attributes: 26
+total attribute Values 998
+Distinct Attribute Values: 380
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 9.589552
+ID Average Length: 11.0
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 74883
+HTML characters: -37779
+Total Script characters: 47
+Total Css characters: 198
+Total Comment characters: 185
+Total Whitespace characters: 10228
+Total text Charachters: 26446
+
+     Halstead Complexity Measures
+
+Vocabulary= 427
+Length= 2932
+Volume= 25620.086505207277
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 406
+Length= 1997
+Volume= 17304.675826618797
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 9100
+(higher is better) Google Page rank: 6
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.taringa.net/
+
+Version: HTML 5
+
+Total Comments: 16
+
+External Scripts: 10
+Scripts inside HTML: 29
+Scripts inside Head: 19
+
+Total tags: 1629
+Distinct tags:  31
+
+HTML 5 Total tags: 8
+HTML 5 Distinct tags: 5
+Html5 tagname:aside
+Html5 tag appearance:1
+
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:header
+Html5 tag appearance:1
+
+Html5 tagname:nav
+Html5 tag appearance:3
+
+Html5 tagname:section
+Html5 tag appearance:2
+
+Styles inside HTML: 16
+total style tags: 1
+total style atts: 15
+external css files: 1
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 16
+External Css Inside Body: 0
+
+total attributes 1722
+Distinct Attributes: 45
+total attribute Values 1592
+Distinct Attribute Values: 815
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 6.251758
+ID Average Length: 11.692307
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 103577
+HTML characters: -42224
+Total Script characters: 7600
+Total Css characters: 23921
+Total Comment characters: 675
+Total Whitespace characters: 18182
+Total text Charachters: 10975
+
+     Halstead Complexity Measures
+
+Vocabulary= 891
+Length= 4943
+Volume= 48437.849055182865
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 865
+Length= 3330
+Volume= 32489.33255400521
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 323
+(higher is better) Google Page rank: 6
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.epinions.com/?sb=1
+
+Version:-//W3C//DTD HTML 4.01 Transitional//EN
+
+Total Comments: 13
+
+External Scripts: 7
+Scripts inside HTML: 17
+Scripts inside Head: 11
+
+Total tags: 396
+Distinct tags:  29
+
+HTML 5 Total tags: 10
+HTML 5 Distinct tags: 4
+Html5 tagname:figure
+Html5 tag appearance:7
+
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:nav
+Html5 tag appearance:1
+
+Html5 tagname:section
+Html5 tag appearance:1
+
+Styles inside HTML: 3
+total style tags: 0
+total style atts: 3
+external css files: 4
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 3
+External Css Inside Body: 0
+
+total attributes 384
+Distinct Attributes: 49
+total attribute Values 362
+Distinct Attribute Values: 233
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 7.822785
+ID Average Length: 8.875
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 26080
+HTML characters: -13171
+Total Script characters: 4432
+Total Css characters: 498
+Total Comment characters: 503
+Total Whitespace characters: 4677
+Total text Charachters: 2799
+
+     Halstead Complexity Measures
+
+Vocabulary= 311
+Length= 1142
+Volume= 9456.640219489149
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 286
+Length= 766
+Volume= 6250.461443972246
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 18986
+(higher is better) Google Page rank: 5
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.sberbank.ru/moscow/ru/person/
+
+Version: HTML 5
+
+Total Comments: 26
+
+External Scripts: 10
+Scripts inside HTML: 17
+Scripts inside Head: 7
+
+Total tags: 346
+Distinct tags:  21
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 10
+total style tags: 4
+total style atts: 6
+external css files: 7
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 10
+External Css Inside Body: 0
+
+total attributes 519
+Distinct Attributes: 30
+total attribute Values 512
+Distinct Attribute Values: 260
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 21.17037
+ID Average Length: 20.0
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 90605
+HTML characters: 10518
+Total Script characters: 63206
+Total Css characters: 1532
+Total Comment characters: 2010
+Total Whitespace characters: 32139
+Total text Charachters: 2236
+
+     Halstead Complexity Measures
+
+Vocabulary= 311
+Length= 1377
+Volume= 11402.62135046984
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 290
+Length= 1031
+Volume= 8433.486271805397
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 502
+(higher is better) Google Page rank: 5
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.plaisio.gr/
+
+Version: HTML 5
+
+Total Comments: 15
+
+External Scripts: 11
+Scripts inside HTML: 26
+Scripts inside Head: 6
+
+Total tags: 1654
+Distinct tags:  26
+
+HTML 5 Total tags: 2
+HTML 5 Distinct tags: 2
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:header
+Html5 tag appearance:1
+
+Styles inside HTML: 15
+total style tags: 3
+total style atts: 12
+external css files: 2
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 14
+External Css Inside Body: 0
+
+total attributes 1855
+Distinct Attributes: 24
+total attribute Values 1855
+Distinct Attribute Values: 859
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 13.670051
+ID Average Length: 25.28125
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 136917
+HTML characters: -75639
+Total Script characters: 24883
+Total Css characters: 1690
+Total Comment characters: 914
+Total Whitespace characters: 24039
+Total text Charachters: 9752
+
+     Halstead Complexity Measures
+
+Vocabulary= 909
+Length= 5364
+Volume= 52718.124101217196
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 885
+Length= 3714
+Volume= 36358.32795741992
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 9734
+(higher is better) Google Page rank: 5
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://torontostandard.com/
+
+CMS :Wordpress 
+
+Version: HTML 5
+
+CMS :Wordpress 
+CMS :Wordpress 
+Total Comments: 76
+
+External Scripts: 18
+Scripts inside HTML: 29
+Scripts inside Head: 18
+
+Total tags: 909
+Distinct tags:  24
+
+HTML 5 Total tags: 2
+HTML 5 Distinct tags: 1
+Html5 tagname:section
+Html5 tag appearance:2
+
+Styles inside HTML: 8
+total style tags: 1
+total style atts: 7
+external css files: 10
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 7
+External Css Inside Body: 0
+
+total attributes 1031
+Distinct Attributes: 34
+total attribute Values 1024
+Distinct Attribute Values: 374
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 8.063269
+ID Average Length: 12.777778
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 74788
+HTML characters: -37135
+Total Script characters: 7639
+Total Css characters: 2290
+Total Comment characters: 4233
+Total Whitespace characters: 17402
+Total text Charachters: 6089
+
+     Halstead Complexity Measures
+
+Vocabulary= 432
+Length= 2964
+Volume= 25949.486556412525
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 409
+Length= 2059
+Volume= 17863.79553082706
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 349533
+(higher is better) Google Page rank: 5
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.workbysimon.com/
+Total Comments: 0
+
+External Scripts: 0
+Scripts inside HTML: 0
+Scripts inside Head: 0
+
+Total tags: 9
+Distinct tags:  8
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 0
+total style tags: 0
+total style atts: 0
+external css files: 0
+CSSinside head: TRUE
+Styles(tags and atts) Inside Body: 0
+External Css Inside Body: 0
+
+total attributes 1
+Distinct Attributes: 1
+total attribute Values 1
+Distinct Attribute Values: 1
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 0.0
+ID Average Length: 0.0
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 191
+HTML characters: -127
+Total Script characters: 0
+Total Css characters: 0
+Total Comment characters: 0
+Total Whitespace characters: 45
+Total text Charachters: 19
+
+     Halstead Complexity Measures
+
+Vocabulary= 10
+Length= 11
+Volume= 36.541209043760986
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 2
+Length= 2
+Volume= 2.0
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 2187978
+(higher is better) Google Page rank: 5
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.gsmarena.com/
+
+Version: HTML 5
+
+Total Comments: 2
+
+External Scripts: 4
+Scripts inside HTML: 8
+Scripts inside Head: 2
+
+Total tags: 393
+Distinct tags:  28
+
+HTML 5 Total tags: 2
+HTML 5 Distinct tags: 2
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:nav
+Html5 tag appearance:1
+
+Styles inside HTML: 28
+total style tags: 0
+total style atts: 28
+external css files: 3
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 28
+External Css Inside Body: 0
+
+total attributes 370
+Distinct Attributes: 22
+total attribute Values 366
+Distinct Attribute Values: 243
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 10.814815
+ID Average Length: 13.272727
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 23575
+HTML characters: -6891
+Total Script characters: 2649
+Total Css characters: 7338
+Total Comment characters: 51
+Total Whitespace characters: 3815
+Total text Charachters: 2831
+
+     Halstead Complexity Measures
+
+Vocabulary= 293
+Length= 1129
+Volume= 9251.880488642719
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 267
+Length= 740
+Volume= 5964.91498944879
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 339
+(higher is better) Google Page rank: 5
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.potterybarn.com/
+
+Version: HTML 5
+
+Total Comments: 6
+
+External Scripts: 6
+Scripts inside HTML: 26
+Scripts inside Head: 3
+
+Total tags: 1600
+Distinct tags:  28
+
+HTML 5 Total tags: 3
+HTML 5 Distinct tags: 3
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:header
+Html5 tag appearance:1
+
+Html5 tagname:nav
+Html5 tag appearance:1
+
+Styles inside HTML: 9
+total style tags: 1
+total style atts: 8
+external css files: 2
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 8
+External Css Inside Body: 0
+
+total attributes 1341
+Distinct Attributes: 37
+total attribute Values 1332
+Distinct Attribute Values: 982
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 10.463357
+ID Average Length: 19.948051
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 124471
+HTML characters: -79869
+Total Script characters: 14803
+Total Css characters: 1273
+Total Comment characters: 682
+Total Whitespace characters: 18019
+Total text Charachters: 9825
+
+     Halstead Complexity Measures
+
+Vocabulary= 1047
+Length= 4273
+Volume= 42866.93139117535
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 1022
+Length= 2679
+Volume= 26782.443829431886
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 3578
+(higher is better) Google Page rank: 5
+ 
+ ------------------------------------------------------------------------------------
+
+Link: https://www.konami.com/
+
+Version: HTML 5
+
+Total Comments: 22
+
+External Scripts: 8
+Scripts inside HTML: 13
+Scripts inside Head: 0
+
+Total tags: 257
+Distinct tags:  25
+
+HTML 5 Total tags: 10
+HTML 5 Distinct tags: 2
+Html5 tagname:audio
+Html5 tag appearance:5
+
+Html5 tagname:source
+Html5 tag appearance:5
+
+Styles inside HTML: 40
+total style tags: 0
+total style atts: 40
+external css files: 5
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 40
+External Css Inside Body: 0
+
+total attributes 452
+Distinct Attributes: 25
+total attribute Values 438
+Distinct Attribute Values: 272
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 8.677966
+ID Average Length: 10.290322
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 82826
+HTML characters: -641
+Total Script characters: 63198
+Total Css characters: 5173
+Total Comment characters: 3771
+Total Whitespace characters: 9148
+Total text Charachters: 895
+
+     Halstead Complexity Measures
+
+Vocabulary= 322
+Length= 1147
+Volume= 9555.561659197467
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 299
+Length= 910
+Volume= 7483.841523520277
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 55062
+(higher is better) Google Page rank: 5
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://kickass.to/
+
+Version: HTML 5
+
+Total Comments: 16
+
+External Scripts: 1
+Scripts inside HTML: 8
+Scripts inside Head: 3
+
+Total tags: 1640
+Distinct tags:  28
+
+HTML 5 Total tags: 2
+HTML 5 Distinct tags: 2
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:header
+Html5 tag appearance:1
+
+Styles inside HTML: 11
+total style tags: 0
+total style atts: 11
+external css files: 1
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 11
+External Css Inside Body: 0
+
+total attributes 1702
+Distinct Attributes: 28
+total attribute Values 1700
+Distinct Attribute Values: 549
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 7.0574894
+ID Average Length: 17.052631
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 8
+
+Total characters: 100859
+HTML characters: -20115
+Total Script characters: 2188
+Total Css characters: 38197
+Total Comment characters: 930
+Total Whitespace characters: 29562
+Total text Charachters: 9867
+
+     Halstead Complexity Measures
+
+Vocabulary= 605
+Length= 5042
+Volume= 46592.06989676059
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 579
+Length= 3406
+Volume= 31258.290946391342
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 75
+(higher is better) Google Page rank: 5
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.myphone.gr/
+
+Version:-//W3C//DTD XHTML 1.0 Transitional//EN
+
+Total Comments: 65
+
+External Scripts: 7
+Scripts inside HTML: 19
+Scripts inside Head: 9
+
+Total tags: 682
+Distinct tags:  27
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 2
+total style tags: 1
+total style atts: 1
+external css files: 3
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 1
+External Css Inside Body: 0
+
+total attributes 869
+Distinct Attributes: 30
+total attribute Values 868
+Distinct Attribute Values: 466
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 9.219048
+ID Average Length: 12.060606
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 72672
+HTML characters: -38042
+Total Script characters: 3759
+Total Css characters: 2159
+Total Comment characters: 1620
+Total Whitespace characters: 12560
+Total text Charachters: 14532
+
+     Halstead Complexity Measures
+
+Vocabulary= 523
+Length= 2419
+Volume= 21845.183802581352
 
      Halstead Complexity Measures <<HTml 5 tags>>
 
 Vocabulary= 496
-Length= 2654
-Volume= 23764.43700776677
+Length= 1737
+Volume= 15553.438991142004
 
      PAGE RANKING
 
-(lower is better) World Ranking : 666019
+(lower is better) World Ranking : 20837
 (higher is better) Google Page rank: 5
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://joomladesigner.com/
+
+CMS: Joomla!
+
+Version: HTML 5
+
+Total Comments: 2
+
+External Scripts: 4
+Scripts inside HTML: 6
+Scripts inside Head: 4
+
+Total tags: 291
+Distinct tags:  25
+
+HTML 5 Total tags: 15
+HTML 5 Distinct tags: 6
+Html5 tagname:article
+Html5 tag appearance:9
+
+Html5 tagname:aside
+Html5 tag appearance:1
+
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:header
+Html5 tag appearance:1
+
+Html5 tagname:nav
+Html5 tag appearance:1
+
+Html5 tagname:section
+Html5 tag appearance:2
+
+Styles inside HTML: 81
+total style tags: 0
+total style atts: 81
+external css files: 3
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 81
+External Css Inside Body: 0
+
+total attributes 304
+Distinct Attributes: 22
+total attribute Values 304
+Distinct Attribute Values: 170
+
+DOM average depth: 10
+DOM max depth: 27
+
+Class Average Length: 8.097701
+ID Average Length: 10.095238
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 22279
+HTML characters: -4946
+Total Script characters: 903
+Total Css characters: 7659
+Total Comment characters: 77
+Total Whitespace characters: 4699
+Total text Charachters: 3995
+
+     Halstead Complexity Measures
+
+Vocabulary= 217
+Length= 899
+Volume= 6977.634557967587
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 198
+Length= 638
+Volume= 4867.52952361079
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 4329751
+(higher is better) Google Page rank: 4
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.turkeysforlife.com/
+
+Version:-//W3C//DTD XHTML 1.0 Strict//EN
+
+Total Comments: 24
+
+External Scripts: 15
+Scripts inside HTML: 48
+Scripts inside Head: 9
+
+Total tags: 1469
+Distinct tags:  25
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 303
+total style tags: 1
+total style atts: 302
+external css files: 2
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 302
+External Css Inside Body: 0
+
+total attributes 2146
+Distinct Attributes: 36
+total attribute Values 2121
+Distinct Attribute Values: 651
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 10.622393
+ID Average Length: 9.509091
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 165754
+HTML characters: 65158
+Total Script characters: 20078
+Total Css characters: 155425
+Total Comment characters: 1253
+Total Whitespace characters: 29307
+Total text Charachters: 24849
+
+     Halstead Complexity Measures
+
+Vocabulary= 712
+Length= 5736
+Volume= 54352.80696002326
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 687
+Length= 4267
+Volume= 40212.91755438683
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 264376
+(higher is better) Google Page rank: 4
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.blackhatworld.com/
+
+Version:-//W3C//DTD XHTML 1.0 Transitional//EN
+
+Total Comments: 75
+
+External Scripts: 5
+Scripts inside HTML: 21
+Scripts inside Head: 4
+
+Total tags: 1312
+Distinct tags:  35
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 14
+total style tags: 3
+total style atts: 11
+external css files: 3
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 14
+External Css Inside Body: 0
+
+total attributes 1585
+Distinct Attributes: 32
+total attribute Values 1485
+Distinct Attribute Values: 619
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 8.10025
+ID Average Length: 14.871795
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 108432
+HTML characters: -66396
+Total Script characters: 8977
+Total Css characters: 4890
+Total Comment characters: 3409
+Total Whitespace characters: 16950
+Total text Charachters: 7810
+
+     Halstead Complexity Measures
+
+Vocabulary= 686
+Length= 4382
+Volume= 41287.48780536927
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 651
+Length= 3070
+Volume= 28693.7971608185
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 477
+(higher is better) Google Page rank: 4
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://clairediazortiz.com/
+
+CMS :Wordpress 
+
+CMS :Wordpress 
+
+Version:-//W3C//DTD XHTML 1.0 Transitional//EN
+
+CMS :Wordpress 
+CMS :Wordpress 
+CMS :Wordpress 
+CMS :Wordpress 
+Total Comments: 31
+
+External Scripts: 24
+Scripts inside HTML: 37
+Scripts inside Head: 9
+
+Total tags: 444
+Distinct tags:  26
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 7
+total style tags: 2
+total style atts: 5
+external css files: 7
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 5
+External Css Inside Body: 0
+
+total attributes 778
+Distinct Attributes: 44
+total attribute Values 769
+Distinct Attribute Values: 410
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 11.220952
+ID Average Length: 10.788236
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 50417
+HTML characters: -24619
+Total Script characters: 7795
+Total Css characters: 2289
+Total Comment characters: 1142
+Total Whitespace characters: 7960
+Total text Charachters: 6612
+
+     Halstead Complexity Measures
+
+Vocabulary= 480
+Length= 1991
+Volume= 17733.619175856562
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 454
+Length= 1547
+Volume= 13654.670509839047
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 99882
+(higher is better) Google Page rank: 4
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.webcoursesbangkok.com/
+
+CMS :Wordpress 
+
+CMS :Wordpress 
+
+CMS :Wordpress 
+
+Version:-//W3C//DTD XHTML 1.0 Transitional//EN
+
+CMS :Wordpress 
+CMS :Wordpress 
+CMS :Wordpress 
+CMS :Wordpress 
+Total Comments: 21
+
+External Scripts: 11
+Scripts inside HTML: 18
+Scripts inside Head: 7
+
+Total tags: 396
+Distinct tags:  28
+
+HTML 5 Total tags: 1
+HTML 5 Distinct tags: 1
+Html5 tagname:embed
+Html5 tag appearance:1
+
+Styles inside HTML: 8
+total style tags: 1
+total style atts: 7
+external css files: 8
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 7
+External Css Inside Body: 0
+
+total attributes 529
+Distinct Attributes: 30
+total attribute Values 528
+Distinct Attribute Values: 395
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 15.1875
+ID Average Length: 13.946667
+
+JApplets inside html: 0
+Flash Content inside html: 2
+
+Nested tables: 0
+
+Total characters: 43218
+HTML characters: -23591
+Total Script characters: 3614
+Total Css characters: 2933
+Total Comment characters: 6274
+Total Whitespace characters: 4131
+Total text Charachters: 2675
+
+     Halstead Complexity Measures
+
+Vocabulary= 453
+Length= 1453
+Volume= 12820.352599787182
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 426
+Length= 1059
+Volume= 9250.057487819164
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 254774
+(higher is better) Google Page rank: 4
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://thisisyoke.com/
+
+CMS :Wordpress 
+
+Version: HTML 5
+
+CMS :Wordpress 
+CMS :Wordpress 
+Total Comments: 11
+
+External Scripts: 7
+Scripts inside HTML: 10
+Scripts inside Head: 7
+
+Total tags: 282
+Distinct tags:  20
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 0
+total style tags: 0
+total style atts: 0
+external css files: 2
+CSSinside head: TRUE
+Styles(tags and atts) Inside Body: 0
+External Css Inside Body: 0
+
+total attributes 400
+Distinct Attributes: 18
+total attribute Values 400
+Distinct Attribute Values: 204
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 11.986667
+ID Average Length: 9.648648
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 22435
+HTML characters: -13495
+Total Script characters: 1045
+Total Css characters: 237
+Total Comment characters: 1638
+Total Whitespace characters: 3523
+Total text Charachters: 2497
+
+     Halstead Complexity Measures
+
+Vocabulary= 242
+Length= 1082
+Volume= 8568.210022731113
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 222
+Length= 800
+Volume= 6235.532693080085
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 1390509
+(higher is better) Google Page rank: 4
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.jessmarksphotography.com.au/
+
+CMS :Wordpress 
+
+Version: HTML 5
+
+CMS :Wordpress 
+CMS :Wordpress 
+Total Comments: 20
+
+External Scripts: 20
+Scripts inside HTML: 31
+Scripts inside Head: 6
+
+Total tags: 216
+Distinct tags:  27
+
+HTML 5 Total tags: 5
+HTML 5 Distinct tags: 4
+Html5 tagname:article
+Html5 tag appearance:2
+
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:header
+Html5 tag appearance:1
+
+Html5 tagname:nav
+Html5 tag appearance:1
+
+Styles inside HTML: 2
+total style tags: 2
+total style atts: 0
+external css files: 6
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 1
+External Css Inside Body: 0
+
+total attributes 252
+Distinct Attributes: 18
+total attribute Values 247
+Distinct Attribute Values: 174
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 8.82
+ID Average Length: 16.666666
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 24229
+HTML characters: -9788
+Total Script characters: 5918
+Total Css characters: 2193
+Total Comment characters: 1774
+Total Whitespace characters: 3283
+Total text Charachters: 1273
+
+     Halstead Complexity Measures
+
+Vocabulary= 219
+Length= 715
+Volume= 5558.972747614839
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 196
+Length= 509
+Volume= 3875.8873106546407
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 1115918
+(higher is better) Google Page rank: 4
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.justinbieberzone.com/
+
+Version: HTML 5
+
+Total Comments: 79
+
+External Scripts: 14
+Scripts inside HTML: 25
+Scripts inside Head: 10
+
+Total tags: 421
+Distinct tags:  33
+
+HTML 5 Total tags: 5
+HTML 5 Distinct tags: 4
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:header
+Html5 tag appearance:1
+
+Html5 tagname:nav
+Html5 tag appearance:2
+
+Html5 tagname:section
+Html5 tag appearance:1
+
+Styles inside HTML: 5
+total style tags: 2
+total style atts: 3
+external css files: 5
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 3
+External Css Inside Body: 0
+
+total attributes 608
+Distinct Attributes: 38
+total attribute Values 603
+Distinct Attribute Values: 357
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 14.8052435
+ID Average Length: 11.454545
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 48719
+HTML characters: -25003
+Total Script characters: 7171
+Total Css characters: 3232
+Total Comment characters: 3036
+Total Whitespace characters: 6876
+Total text Charachters: 3401
+
+     Halstead Complexity Measures
+
+Vocabulary= 428
+Length= 1632
+Volume= 14266.07412180667
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 399
+Length= 1221
+Volume= 10549.739067127486
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 204642
+(higher is better) Google Page rank: 4
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.littleco.com/
+
+Version: HTML 5
+
+Total Comments: 19
+
+External Scripts: 21
+Scripts inside HTML: 27
+Scripts inside Head: 3
+
+Total tags: 461
+Distinct tags:  24
+
+HTML 5 Total tags: 2
+HTML 5 Distinct tags: 2
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:header
+Html5 tag appearance:1
+
+Styles inside HTML: 23
+total style tags: 1
+total style atts: 22
+external css files: 7
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 23
+External Css Inside Body: 0
+
+total attributes 669
+Distinct Attributes: 30
+total attribute Values 612
+Distinct Attribute Values: 297
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 7.572939
+ID Average Length: 11.434783
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 33049
+HTML characters: -9051
+Total Script characters: 1808
+Total Css characters: 12785
+Total Comment characters: 783
+Total Whitespace characters: 7337
+Total text Charachters: 1285
+
+     Halstead Complexity Measures
+
+Vocabulary= 351
+Length= 1742
+Volume= 14729.180017770545
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 329
+Length= 1285
+Volume= 10745.097749249786
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 396365
+(higher is better) Google Page rank: 4
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://irontoiron.com/
+
+CMS :Wordpress 
+
+Version: HTML 5
+
+CMS :Wordpress 
+CMS :Wordpress 
+Total Comments: 12
+
+External Scripts: 3
+Scripts inside HTML: 5
+Scripts inside Head: 5
+
+Total tags: 316
+Distinct tags:  34
+
+HTML 5 Total tags: 9
+HTML 5 Distinct tags: 4
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:header
+Html5 tag appearance:1
+
+Html5 tagname:nav
+Html5 tag appearance:3
+
+Html5 tagname:section
+Html5 tag appearance:4
+
+Styles inside HTML: 1
+total style tags: 0
+total style atts: 1
+external css files: 1
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 1
+External Css Inside Body: 0
+
+total attributes 298
+Distinct Attributes: 31
+total attribute Values 298
+Distinct Attribute Values: 246
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 12.0
+ID Average Length: 8.0
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 152732
+HTML characters: -133496
+Total Script characters: 4788
+Total Css characters: 3031
+Total Comment characters: 914
+Total Whitespace characters: 9188
+Total text Charachters: 1315
+
+     Halstead Complexity Measures
+
+Vocabulary= 311
+Length= 912
+Volume= 7552.06294235911
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 281
+Length= 614
+Volume= 4994.537760615649
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 456124
+(higher is better) Google Page rank: 4
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.pes-patch.com/
+
+Version: HTML 5
+
+Total Comments: 211
+
+External Scripts: 25
+Scripts inside HTML: 33
+Scripts inside Head: 7
+
+Total tags: 642
+Distinct tags:  27
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 16
+total style tags: 2
+total style atts: 14
+external css files: 14
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 16
+External Css Inside Body: 0
+
+total attributes 997
+Distinct Attributes: 35
+total attribute Values 988
+Distinct Attribute Values: 523
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 13.111354
+ID Average Length: 13.451612
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 71415
+HTML characters: -37242
+Total Script characters: 5845
+Total Css characters: 5650
+Total Comment characters: 8599
+Total Whitespace characters: 9940
+Total text Charachters: 4139
+
+     Halstead Complexity Measures
+
+Vocabulary= 585
+Length= 2627
+Volume= 24148.153223614707
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 558
+Length= 1985
+Volume= 18111.380803980937
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 30267
+(higher is better) Google Page rank: 3
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.selfsagacity.com/
+
+Version: HTML 5
+
+Total Comments: 13
+
+External Scripts: 8
+Scripts inside HTML: 31
+Scripts inside Head: 9
+
+Total tags: 1049
+Distinct tags:  32
+
+HTML 5 Total tags: 20
+HTML 5 Distinct tags: 5
+Html5 tagname:article
+Html5 tag appearance:15
+
+Html5 tagname:aside
+Html5 tag appearance:1
+
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:header
+Html5 tag appearance:1
+
+Html5 tagname:nav
+Html5 tag appearance:2
+
+Styles inside HTML: 43
+total style tags: 4
+total style atts: 39
+external css files: 3
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 39
+External Css Inside Body: 0
+
+total attributes 1515
+Distinct Attributes: 35
+total attribute Values 1452
+Distinct Attribute Values: 501
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 10.788396
+ID Average Length: 14.013158
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 153195
+HTML characters: -48547
+Total Script characters: 42295
+Total Css characters: 29752
+Total Comment characters: 899
+Total Whitespace characters: 25136
+Total text Charachters: 6566
+
+     Halstead Complexity Measures
+
+Vocabulary= 568
+Length= 4016
+Volume= 36745.384431930805
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 541
+Length= 3007
+Volume= 27302.010744967236
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 220257
+(higher is better) Google Page rank: 3
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://vabulous.com/
+
+Version:-//W3C//DTD XHTML 1.0 Transitional//EN
+
+Total Comments: 36
+
+External Scripts: 8
+Scripts inside HTML: 20
+Scripts inside Head: 8
+
+Total tags: 436
+Distinct tags:  34
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 40
+total style tags: 2
+total style atts: 38
+external css files: 3
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 39
+External Css Inside Body: 0
+
+total attributes 726
+Distinct Attributes: 39
+total attribute Values 720
+Distinct Attribute Values: 497
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 14.615169
+ID Average Length: 12.5222225
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 56633
+HTML characters: -23505
+Total Script characters: 12149
+Total Css characters: 5369
+Total Comment characters: 2163
+Total Whitespace characters: 8685
+Total text Charachters: 4762
+
+     Halstead Complexity Measures
+
+Vocabulary= 570
+Length= 1882
+Volume= 17229.36768123606
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 536
+Length= 1446
+Volume= 13109.564969401938
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 229392
+(higher is better) Google Page rank: 3
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.extratv.gr/
+
+Version:-//W3C//DTD XHTML 1.0 Transitional//EN
+
+Total Comments: 15
+
+External Scripts: 8
+Scripts inside HTML: 27
+Scripts inside Head: 12
+
+Total tags: 218
+Distinct tags:  19
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 1
+total style tags: 0
+total style atts: 1
+external css files: 3
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 1
+External Css Inside Body: 0
+
+total attributes 249
+Distinct Attributes: 19
+total attribute Values 244
+Distinct Attribute Values: 142
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 8.673077
+ID Average Length: 7.3636365
+
+JApplets inside html: 0
+Flash Content inside html: 1
+
+Nested tables: 0
+
+Total characters: 60576
+HTML characters: 2434
+Total Script characters: 45628
+Total Css characters: 250
+Total Comment characters: 5539
+Total Whitespace characters: 11122
+Total text Charachters: 471
+
+     Halstead Complexity Measures
+
+Vocabulary= 180
+Length= 711
+Volume= 5326.707551490399
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 161
+Length= 493
+Volume= 3614.1420209105063
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 883406
+(higher is better) Google Page rank: 3
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.hotelnafpaktos.gr/
+
+CMS :Wordpress 
+
+Version: HTML 5
+
+CMS :Wordpress 
+CMS :Wordpress 
+Total Comments: 43
+
+External Scripts: 29
+Scripts inside HTML: 38
+Scripts inside Head: 23
+
+Total tags: 303
+Distinct tags:  27
+
+HTML 5 Total tags: 11
+HTML 5 Distinct tags: 5
+Html5 tagname:article
+Html5 tag appearance:4
+
+Html5 tagname:footer
+Html5 tag appearance:2
+
+Html5 tagname:header
+Html5 tag appearance:2
+
+Html5 tagname:nav
+Html5 tag appearance:2
+
+Html5 tagname:section
+Html5 tag appearance:1
+
+Styles inside HTML: 27
+total style tags: 4
+total style atts: 23
+external css files: 16
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 23
+External Css Inside Body: 0
+
+total attributes 565
+Distinct Attributes: 29
+total attribute Values 553
+Distinct Attribute Values: 302
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 13.692607
+ID Average Length: 13.381818
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 39528
+HTML characters: -8642
+Total Script characters: 6656
+Total Css characters: 16016
+Total Comment characters: 1784
+Total Whitespace characters: 5098
+Total text Charachters: 1332
+
+     Halstead Complexity Measures
+
+Vocabulary= 358
+Length= 1421
+Volume= 12055.502219492508
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 336
+Length= 1140
+Volume= 9567.241861967786
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 4870570
+(higher is better) Google Page rank: 3
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.designjoomla.com/
+
+CMS: Joomla!
+
+Version: HTML 5
+
+Total Comments: 38
+
+External Scripts: 18
+Scripts inside HTML: 28
+Scripts inside Head: 24
+
+Total tags: 269
+Distinct tags:  27
+
+HTML 5 Total tags: 10
+HTML 5 Distinct tags: 4
+Html5 tagname:article
+Html5 tag appearance:7
+
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:header
+Html5 tag appearance:1
+
+Html5 tagname:nav
+Html5 tag appearance:1
+
+Styles inside HTML: 27
+total style tags: 1
+total style atts: 26
+external css files: 13
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 26
+External Css Inside Body: 0
+
+total attributes 366
+Distinct Attributes: 22
+total attribute Values 364
+Distinct Attribute Values: 222
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 9.414365
+ID Average Length: 14.478261
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 27147
+HTML characters: 1696
+Total Script characters: 6332
+Total Css characters: 13184
+Total Comment characters: 1259
+Total Whitespace characters: 6185
+Total text Charachters: 1883
+
+     Halstead Complexity Measures
+
+Vocabulary= 271
+Length= 999
+Volume= 8074.066892312519
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 248
+Length= 750
+Volume= 5965.6472327901565
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 3277949
+(higher is better) Google Page rank: 3
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.reforms.net/
+
+Version:-//W3C//DTD XHTML 1.0 Strict//EN
+
+Total Comments: 2
+
+External Scripts: 2
+Scripts inside HTML: 5
+Scripts inside Head: 4
+
+Total tags: 60
+Distinct tags:  17
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 0
+total style tags: 0
+total style atts: 0
+external css files: 1
+CSSinside head: TRUE
+Styles(tags and atts) Inside Body: 0
+External Css Inside Body: 0
+
+total attributes 103
+Distinct Attributes: 21
+total attribute Values 103
+Distinct Attribute Values: 40
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 4.0
+ID Average Length: 12.0
+
+JApplets inside html: 0
+Flash Content inside html: 1
+
+Nested tables: 1
+
+Total characters: 4923
+HTML characters: -2180
+Total Script characters: 1165
+Total Css characters: 66
+Total Comment characters: 162
+Total Whitespace characters: 716
+Total text Charachters: 634
+
+     Halstead Complexity Measures
+
+Vocabulary= 78
+Length= 266
+Volume= 1671.9169902173583
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 61
+Length= 206
+Volume= 1221.7318915379547
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 1912710
+(higher is better) Google Page rank: 3
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.geekbuying.com/
+
+Version: HTML 5
+
+Total Comments: 35
+
+External Scripts: 8
+Scripts inside HTML: 20
+Scripts inside Head: 0
+
+Total tags: 3360
+Distinct tags:  26
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 115
+total style tags: 2
+total style atts: 113
+external css files: 4
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 115
+External Css Inside Body: 0
+
+total attributes 4769
+Distinct Attributes: 45
+total attribute Values 4736
+Distinct Attribute Values: 1332
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 6.829936
+ID Average Length: 10.452381
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 275912
+HTML characters: 129488
+Total Script characters: 13997
+Total Css characters: 311280
+Total Comment characters: 1085
+Total Whitespace characters: 53217
+Total text Charachters: 25821
+
+     Halstead Complexity Measures
+
+Vocabulary= 1403
+Length= 12865
+Volume= 134494.56041242
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 1377
+Length= 9505
+Volume= 99111.60858350282
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 23398
+(higher is better) Google Page rank: 3
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://ggmusicandaudio.com/
+
+Version: HTML 5
+
+Total Comments: 27
+
+External Scripts: 14
+Scripts inside HTML: 24
+Scripts inside Head: 9
+
+Total tags: 229
+Distinct tags:  30
+
+HTML 5 Total tags: 12
+HTML 5 Distinct tags: 5
+Html5 tagname:article
+Html5 tag appearance:5
+
+Html5 tagname:footer
+Html5 tag appearance:1
+
+Html5 tagname:header
+Html5 tag appearance:2
+
+Html5 tagname:nav
+Html5 tag appearance:1
+
+Html5 tagname:section
+Html5 tag appearance:3
+
+Styles inside HTML: 5
+total style tags: 2
+total style atts: 3
+external css files: 10
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 3
+External Css Inside Body: 0
+
+total attributes 393
+Distinct Attributes: 36
+total attribute Values 382
+Distinct Attribute Values: 258
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 14.460526
+ID Average Length: 15.195652
+
+JApplets inside html: 0
+Flash Content inside html: 1
+
+Nested tables: 0
+
+Total characters: 30833
+HTML characters: -8171
+Total Script characters: 7463
+Total Css characters: 4000
+Total Comment characters: 3839
+Total Whitespace characters: 5608
+Total text Charachters: 1752
+
+     Halstead Complexity Measures
+
+Vocabulary= 324
+Length= 1004
+Volume= 8373.209402896162
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 299
+Length= 799
+Volume= 6570.977337684287
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 2269642
+(higher is better) Google Page rank: 3
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://zopomobile.cn/
+
+Version:-//W3C//DTD XHTML 1.0 Strict//EN
+
+Total Comments: 1
+
+External Scripts: 20
+Scripts inside HTML: 28
+Scripts inside Head: 8
+
+Total tags: 355
+Distinct tags:  27
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 27
+total style tags: 0
+total style atts: 27
+external css files: 3
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 27
+External Css Inside Body: 0
+
+total attributes 472
+Distinct Attributes: 23
+total attribute Values 447
+Distinct Attribute Values: 256
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 7.524138
+ID Average Length: 10.5
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 37725
+HTML characters: -10531
+Total Script characters: 17289
+Total Css characters: 4729
+Total Comment characters: 255
+Total Whitespace characters: 3527
+Total text Charachters: 1394
+
+     Halstead Complexity Measures
+
+Vocabulary= 306
+Length= 1274
+Volume= 10519.912111590438
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 279
+Length= 919
+Volume= 7466.067485571023
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 446246
+(higher is better) Google Page rank: 3
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://breakglasstosoundalarm.com/
+Total Comments: 0
+
+External Scripts: 0
+Scripts inside HTML: 3
+Scripts inside Head: 1
+
+Total tags: 14
+Distinct tags:  9
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 1
+total style tags: 1
+total style atts: 0
+external css files: 0
+CSSinside head: TRUE
+Styles(tags and atts) Inside Body: 0
+External Css Inside Body: 0
+
+total attributes 12
+Distinct Attributes: 8
+total attribute Values 12
+Distinct Attribute Values: 11
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 13.5
+ID Average Length: 5.6666665
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 1648
+HTML characters: -163
+Total Script characters: 911
+Total Css characters: 325
+Total Comment characters: 0
+Total Whitespace characters: 244
+Total text Charachters: 5
+
+     Halstead Complexity Measures
+
+Vocabulary= 28
+Length= 38
+Volume= 182.67948703818894
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 19
+Length= 24
+Volume= 101.95026032264605
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 302692
+(higher is better) Google Page rank: 2
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://thewebsitepromoter.com/
+
+CMS :Wordpress 
+
+Version: HTML 5
+
+CMS :Wordpress 
+CMS :Wordpress 
+Total Comments: 20
+
+External Scripts: 4
+Scripts inside HTML: 6
+Scripts inside Head: 3
+
+Total tags: 155
+Distinct tags:  22
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 1
+total style tags: 1
+total style atts: 0
+external css files: 2
+CSSinside head: TRUE
+Styles(tags and atts) Inside Body: 0
+External Css Inside Body: 0
+
+total attributes 195
+Distinct Attributes: 26
+total attribute Values 193
+Distinct Attribute Values: 151
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 10.853659
+ID Average Length: 8.315789
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 16928
+HTML characters: -6702
+Total Script characters: 1085
+Total Css characters: 396
+Total Comment characters: 591
+Total Whitespace characters: 2865
+Total text Charachters: 5289
+
+     Halstead Complexity Measures
+
+Vocabulary= 199
+Length= 543
+Volume= 4146.687168955201
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 177
+Length= 388
+Volume= 2897.4309534322033
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 181804
+(higher is better) Google Page rank: 2
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.koproskyla.com/
+Total Comments: 0
+
+External Scripts: 0
+Scripts inside HTML: 0
+Scripts inside Head: 0
+
+Total tags: 4
+Distinct tags:  4
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 0
+total style tags: 0
+total style atts: 0
+external css files: 0
+CSSinside head: TRUE
+Styles(tags and atts) Inside Body: 0
+External Css Inside Body: 0
+
+total attributes 0
+Distinct Attributes: 0
+total attribute Values 0
+Distinct Attribute Values: 0
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 0.0
+ID Average Length: 0.0
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 44
+HTML characters: -39
+Total Script characters: 0
+Total Css characters: 0
+Total Comment characters: 0
+Total Whitespace characters: 5
+Total text Charachters: 0
+
+     Halstead Complexity Measures
+
+Vocabulary= 4
+Length= 4
+Volume= 8.0
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 0
+Length= 0
+Volume= NaN
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 201315
+(higher is better) Google Page rank: 2
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.inanimarbles.com/index.php
+
+Version:-//W3C//DTD XHTML 1.0 Strict//EN
+
+Total Comments: 0
+
+External Scripts: 0
+Scripts inside HTML: 0
+Scripts inside Head: 0
+
+Total tags: 14
+Distinct tags:  12
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 1
+total style tags: 1
+total style atts: 0
+external css files: 0
+CSSinside head: TRUE
+Styles(tags and atts) Inside Body: 0
+External Css Inside Body: 0
+
+total attributes 7
+Distinct Attributes: 6
+total attribute Values 7
+Distinct Attribute Values: 7
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 17.0
+ID Average Length: 6.5
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 1286
+HTML characters: -351
+Total Script characters: 0
+Total Css characters: 603
+Total Comment characters: 0
+Total Whitespace characters: 174
+Total text Charachters: 158
+
+     Halstead Complexity Measures
+
+Vocabulary= 25
+Length= 28
+Volume= 130.02797331369229
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 13
+Length= 14
+Volume= 51.80615605397529
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 2970394
+(higher is better) Google Page rank: 2
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.limnosreport.gr/
+
+Version:-//W3C//DTD XHTML 1.0 Transitional//EN
+
+Total Comments: 43
+
+External Scripts: 15
+Scripts inside HTML: 40
+Scripts inside Head: 15
+
+Total tags: 1615
+Distinct tags:  27
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 30
+total style tags: 19
+total style atts: 11
+external css files: 10
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 23
+External Css Inside Body: 0
+
+total attributes 1538
+Distinct Attributes: 32
+total attribute Values 1534
+Distinct Attribute Values: 353
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 9.582644
+ID Average Length: 11.150944
+
+JApplets inside html: 0
+Flash Content inside html: 1
+
+Nested tables: 0
+
+Total characters: 201632
+HTML characters: -54356
+Total Script characters: 16749
+Total Css characters: 26677
+Total Comment characters: 1575
+Total Whitespace characters: 37311
+Total text Charachters: 64964
+
+     Halstead Complexity Measures
+
+Vocabulary= 412
+Length= 4687
+Volume= 40713.62797090774
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 385
+Length= 3072
+Volume= 26384.53136050872
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 1612161
+(higher is better) Google Page rank: 2
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.en.pegasus.pl/
+
+Version:-//W3C//DTD XHTML 1.0 Transitional//EN
+
+Total Comments: 6
+
+External Scripts: 7
+Scripts inside HTML: 12
+Scripts inside Head: 7
+
+Total tags: 262
+Distinct tags:  18
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 20
+total style tags: 0
+total style atts: 20
+external css files: 4
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 20
+External Css Inside Body: 0
+
+total attributes 216
+Distinct Attributes: 18
+total attribute Values 211
+Distinct Attribute Values: 130
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 8.767858
+ID Average Length: 6.5
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 23212
+HTML characters: -997
+Total Script characters: 3908
+Total Css characters: 6532
+Total Comment characters: 4669
+Total Whitespace characters: 5499
+Total text Charachters: 1607
+
+     Halstead Complexity Measures
+
+Vocabulary= 166
+Length= 689
+Volume= 5081.402168198031
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 148
+Length= 427
+Volume= 3078.4365871235614
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 3316234
+(higher is better) Google Page rank: 2
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://createwhatmattersmost.blogspot.ca/
+
+Version: HTML 5
+
+Total Comments: 2
+
+External Scripts: 9
+Scripts inside HTML: 15
+Scripts inside Head: 9
+
+Total tags: 55
+Distinct tags:  11
+
+HTML 5 Total tags: 1
+HTML 5 Distinct tags: 1
+Html5 tagname:aside
+Html5 tag appearance:1
+
+Styles inside HTML: 3
+total style tags: 2
+total style atts: 1
+external css files: 3
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 1
+External Css Inside Body: 0
+
+total attributes 92
+Distinct Attributes: 13
+total attribute Values 92
+Distinct Attribute Values: 69
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 12.409091
+ID Average Length: 11.25
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 20668
+HTML characters: -1572
+Total Script characters: 10655
+Total Css characters: 6278
+Total Comment characters: 527
+Total Whitespace characters: 1636
+Total text Charachters: 0
+
+     Halstead Complexity Measures
+
+Vocabulary= 93
+Length= 239
+Volume= 1562.8589558548197
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 83
+Length= 186
+Volume= 1185.7573342305282
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 7370462
+(higher is better) Google Page rank: 2
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.hughjassburgers.com/
+
+Version: HTML 5
+
+Total Comments: 6
+
+External Scripts: 6
+Scripts inside HTML: 13
+Scripts inside Head: 6
+
+Total tags: 41
+Distinct tags:  11
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 0
+total style tags: 0
+total style atts: 0
+external css files: 1
+CSSinside head: TRUE
+Styles(tags and atts) Inside Body: 0
+External Css Inside Body: 0
+
+total attributes 57
+Distinct Attributes: 10
+total attribute Values 56
+Distinct Attribute Values: 46
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 0.0
+ID Average Length: 14.0
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 24989
+HTML characters: -1252
+Total Script characters: 21988
+Total Css characters: 126
+Total Comment characters: 742
+Total Whitespace characters: 874
+Total text Charachters: 7
+
+     Halstead Complexity Measures
+
+Vocabulary= 67
+Length= 154
+Volume= 934.177735330497
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 56
+Length= 113
+Volume= 656.2311061925093
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 4472319
+(higher is better) Google Page rank: 2
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.zenfightingclub.gr/
+
+Version:-//W3C//DTD HTML 4.01 Transitional//EN
+
+Total Comments: 14
+
+External Scripts: 2
+Scripts inside HTML: 12
+Scripts inside Head: 7
+
+Total tags: 378
+Distinct tags:  25
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 103
+total style tags: 1
+total style atts: 102
+external css files: 0
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 102
+External Css Inside Body: 0
+
+total attributes 638
+Distinct Attributes: 38
+total attribute Values 576
+Distinct Attribute Values: 235
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 4.7956204
+ID Average Length: 7.4
+
+JApplets inside html: 0
+Flash Content inside html: 1
+
+Nested tables: 3
+
+Total characters: 38546
+HTML characters: 56880
+Total Script characters: 4141
+Total Css characters: 78538
+Total Comment characters: 2982
+Total Whitespace characters: 7991
+Total text Charachters: 1774
+
+     Halstead Complexity Measures
+
+Vocabulary= 298
+Length= 1592
+Volume= 13084.916284575762
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 273
+Length= 1214
+Volume= 9824.6071690767
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 7099071
+(higher is better) Google Page rank: 2
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://paranormalnewengland.com/
+
+CMS :Wordpress 
+
+Version: HTML 5
+
+CMS :Wordpress 
+CMS :Wordpress 
+Total Comments: 51
+
+External Scripts: 43
+Scripts inside HTML: 58
+Scripts inside Head: 17
+
+Total tags: 656
+Distinct tags:  46
+
+HTML 5 Total tags: 17
+HTML 5 Distinct tags: 5
+Html5 tagname:article
+Html5 tag appearance:1
+
+Html5 tagname:aside
+Html5 tag appearance:11
+
+Html5 tagname:footer
+Html5 tag appearance:2
+
+Html5 tagname:header
+Html5 tag appearance:2
+
+Html5 tagname:nav
+Html5 tag appearance:1
+
+Styles inside HTML: 105
+total style tags: 7
+total style atts: 98
+external css files: 22
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 104
+External Css Inside Body: 0
+
+total attributes 1182
+Distinct Attributes: 67
+total attribute Values 1128
+Distinct Attribute Values: 630
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 14.450892
+ID Average Length: 13.324325
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 87839
+HTML characters: -10655
+Total Script characters: 12174
+Total Css characters: 43831
+Total Comment characters: 1708
+Total Whitespace characters: 12687
+Total text Charachters: 6784
+
+     Halstead Complexity Measures
+
+Vocabulary= 743
+Length= 2966
+Volume= 28287.38977599748
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 702
+Length= 2344
+Volume= 22163.28700439389
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 11734302
+(higher is better) Google Page rank: 2
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://gamato.ning.com/
+
+Version: HTML 5
+
+Total Comments: 5
+
+External Scripts: 5
+Scripts inside HTML: 34
+Scripts inside Head: 6
+
+Total tags: 1399
+Distinct tags:  31
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 65
+total style tags: 6
+total style atts: 59
+external css files: 0
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 61
+External Css Inside Body: 0
+
+total attributes 2018
+Distinct Attributes: 58
+total attribute Values 1967
+Distinct Attribute Values: 664
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 9.358248
+ID Average Length: 10.318682
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 142064
+HTML characters: -78893
+Total Script characters: 20561
+Total Css characters: 7755
+Total Comment characters: 447
+Total Whitespace characters: 20124
+Total text Charachters: 14284
+
+     Halstead Complexity Measures
+
+Vocabulary= 753
+Length= 5384
+Volume= 51452.228598353664
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 722
+Length= 3985
+Volume= 37840.98228214537
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 17531
+(higher is better) Google Page rank: 1
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.littleistanbul.com.au/
+
+Version: HTML 5
+
+Total Comments: 37
+
+External Scripts: 9
+Scripts inside HTML: 16
+Scripts inside Head: 5
+
+Total tags: 95
+Distinct tags:  13
+
+HTML 5 Total tags: 1
+HTML 5 Distinct tags: 1
+Html5 tagname:nav
+Html5 tag appearance:1
+
+Styles inside HTML: 0
+total style tags: 0
+total style atts: 0
+external css files: 3
+CSSinside head: TRUE
+Styles(tags and atts) Inside Body: 0
+External Css Inside Body: 0
+
+total attributes 205
+Distinct Attributes: 20
+total attribute Values 196
+Distinct Attribute Values: 133
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 9.008772
+ID Average Length: 6.1282053
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 12309
+HTML characters: -4635
+Total Script characters: 4018
+Total Css characters: 247
+Total Comment characters: 861
+Total Whitespace characters: 1756
+Total text Charachters: 792
+
+     Halstead Complexity Measures
+
+Vocabulary= 166
+Length= 496
+Volume= 3658.019557948075
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 154
+Length= 403
+Volume= 2928.5149759000456
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 0
+(higher is better) Google Page rank: 1
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.unicarmalta.com/
+
+Version:-//W3C//DTD html 4.0 Transitional//EN
+
+Total Comments: 5
+
+External Scripts: 0
+Scripts inside HTML: 1
+Scripts inside Head: 0
+
+Total tags: 441
+Distinct tags:  27
+
+HTML 5 Total tags: 2
+HTML 5 Distinct tags: 1
+Html5 tagname:embed
+Html5 tag appearance:2
+
+Styles inside HTML: 43
+total style tags: 1
+total style atts: 42
+external css files: 1
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 42
+External Css Inside Body: 0
+
+total attributes 728
+Distinct Attributes: 40
+total attribute Values 727
+Distinct Attribute Values: 267
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 7.205128
+ID Average Length: 13.642858
+
+JApplets inside html: 0
+Flash Content inside html: 2
+
+Nested tables: 17
+
+Total characters: 36428
+HTML characters: -4916
+Total Script characters: 811
+Total Css characters: 17273
+Total Comment characters: 5630
+Total Whitespace characters: 6854
+Total text Charachters: 944
+
+     Halstead Complexity Measures
+
+Vocabulary= 334
+Length= 1896
+Volume= 15895.503338530805
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 308
+Length= 1459
+Volume= 12061.24156287386
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 8178163
+(higher is better) Google Page rank: 1
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://albstudentpress.com/
+
+Version:-//W3C//DTD XHTML 1.0 Transitional//EN
+
+Total Comments: 4
+
+External Scripts: 26
+Scripts inside HTML: 30
+Scripts inside Head: 23
+
+Total tags: 233
+Distinct tags:  25
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 6
+total style tags: 2
+total style atts: 4
+external css files: 14
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 4
+External Css Inside Body: 0
+
+total attributes 388
+Distinct Attributes: 28
+total attribute Values 383
+Distinct Attribute Values: 265
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 13.545946
+ID Average Length: 12.793651
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 23960
+HTML characters: -12142
+Total Script characters: 2753
+Total Css characters: 2728
+Total Comment characters: 358
+Total Whitespace characters: 3474
+Total text Charachters: 2505
+
+     Halstead Complexity Measures
+
+Vocabulary= 318
+Length= 1004
+Volume= 8346.134487105493
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 293
+Length= 771
+Volume= 6318.1575347595535
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 0
+(higher is better) Google Page rank: 1
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://marketingmedia.al/
+
+Version:-//W3C//DTD XHTML 1.0 Transitional//EN
+
+Total Comments: 127
+
+External Scripts: 13
+Scripts inside HTML: 18
+Scripts inside Head: 11
+
+Total tags: 507
+Distinct tags:  29
+
+HTML 5 Total tags: 1
+HTML 5 Distinct tags: 1
+Html5 tagname:embed
+Html5 tag appearance:1
+
+Styles inside HTML: 71
+total style tags: 2
+total style atts: 69
+external css files: 11
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 70
+External Css Inside Body: 0
+
+total attributes 791
+Distinct Attributes: 29
+total attribute Values 784
+Distinct Attribute Values: 439
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 10.184397
+ID Average Length: 12.803572
+
+JApplets inside html: 0
+Flash Content inside html: 1
+
+Nested tables: 0
+
+Total characters: 51897
+HTML characters: -23883
+Total Script characters: 1979
+Total Css characters: 9275
+Total Comment characters: 3102
+Total Whitespace characters: 9267
+Total text Charachters: 4391
+
+     Halstead Complexity Measures
+
+Vocabulary= 497
+Length= 2082
+Volume= 18648.68645053268
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 469
+Length= 1577
+Volume= 13993.421365436747
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 13819213
+(higher is better) Google Page rank: 1
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.dawnesmaki.pl/
+
+Version: HTML 5
+
+Total Comments: 1
+
+External Scripts: 6
+Scripts inside HTML: 14
+Scripts inside Head: 7
+
+Total tags: 126
+Distinct tags:  22
+
+HTML 5 Total tags: 3
+HTML 5 Distinct tags: 2
+Html5 tagname:nav
+Html5 tag appearance:2
+
+Html5 tagname:section
+Html5 tag appearance:1
+
+Styles inside HTML: 0
+total style tags: 0
+total style atts: 0
+external css files: 6
+CSSinside head: TRUE
+Styles(tags and atts) Inside Body: 0
+External Css Inside Body: 0
+
+total attributes 235
+Distinct Attributes: 25
+total attribute Values 223
+Distinct Attribute Values: 134
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 3.325
+ID Average Length: 5.0
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 9820
+HTML characters: -3790
+Total Script characters: 3368
+Total Css characters: 524
+Total Comment characters: 68
+Total Whitespace characters: 1571
+Total text Charachters: 499
+
+     Halstead Complexity Measures
+
+Vocabulary= 181
+Length= 584
+Volume= 4379.9099980565925
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 161
+Length= 464
+Volume= 3401.5454314451827
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 5572261
+(higher is better) Google Page rank: 1
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.maltacarmarket.com/
+
+Version:-//W3C//DTD XHTML 1.0 Transitional//EN
+
+Total Comments: 3
+
+External Scripts: 4
+Scripts inside HTML: 7
+Scripts inside Head: 2
+
+Total tags: 170
+Distinct tags:  27
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 32
+total style tags: 0
+total style atts: 32
+external css files: 2
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 32
+External Css Inside Body: 0
+
+total attributes 366
+Distinct Attributes: 37
+total attribute Values 364
+Distinct Attribute Values: 210
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 5.5666666
+ID Average Length: 6.918919
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 15363
+HTML characters: -2533
+Total Script characters: 743
+Total Css characters: 8408
+Total Comment characters: 76
+Total Whitespace characters: 2199
+Total text Charachters: 1404
+
+     Halstead Complexity Measures
+
+Vocabulary= 274
+Length= 900
+Volume= 7288.2288746644745
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 247
+Length= 730
+Volume= 5802.308079056815
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 3910216
+(higher is better) Google Page rank: 1
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://stork.pl/en/
+
+CMS: Joomla!
+
+Version:-//W3C//DTD XHTML 1.0 Transitional//EN
+
+Total Comments: 0
+
+External Scripts: 5
+Scripts inside HTML: 8
+Scripts inside Head: 7
+
+Total tags: 155
+Distinct tags:  26
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 1
+total style tags: 0
+total style atts: 1
+external css files: 8
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 1
+External Css Inside Body: 0
+
+total attributes 239
+Distinct Attributes: 28
+total attribute Values 235
+Distinct Attribute Values: 139
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 8.365853
+ID Average Length: 9.526316
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 11342
+HTML characters: -3849
+Total Script characters: 2897
+Total Css characters: 2195
+Total Comment characters: 0
+Total Whitespace characters: 1863
+Total text Charachters: 538
+
+     Halstead Complexity Measures
+
+Vocabulary= 193
+Length= 629
+Volume= 4775.655476441622
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 167
+Length= 474
+Volume= 3499.875834632701
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 0
+(higher is better) Google Page rank: 1
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://www.mbapoland.com/
+
+Version:-//W3C//DTD XHTML 1.0 Transitional//EN
+
+Total Comments: 15
+
+External Scripts: 8
+Scripts inside HTML: 19
+Scripts inside Head: 6
+
+Total tags: 212
+Distinct tags:  20
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 39
+total style tags: 0
+total style atts: 39
+external css files: 1
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 39
+External Css Inside Body: 0
+
+total attributes 268
+Distinct Attributes: 27
+total attribute Values 267
+Distinct Attribute Values: 167
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 7.96875
+ID Average Length: 6.6
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 33438
+HTML characters: 3345
+Total Script characters: 17437
+Total Css characters: 5799
+Total Comment characters: 638
+Total Whitespace characters: 9691
+Total text Charachters: 3218
+
+     Halstead Complexity Measures
+
+Vocabulary= 214
+Length= 747
+Volume= 5782.875838841656
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 194
+Length= 535
+Volume= 4065.9533705701133
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 13901689
+(higher is better) Google Page rank: 1
+ 
+ ------------------------------------------------------------------------------------
+
+Link: http://sigmakey.com/en/
+
+Version:-//W3C//DTD XHTML 1.0 Transitional//EN
+
+Total Comments: 8
+
+External Scripts: 2
+Scripts inside HTML: 6
+Scripts inside Head: 3
+
+Total tags: 1317
+Distinct tags:  31
+
+HTML 5 Total tags: 0
+HTML 5 Distinct tags: 0
+Styles inside HTML: 29
+total style tags: 1
+total style atts: 28
+external css files: 1
+CSSinside head: FALSE
+Styles(tags and atts) Inside Body: 29
+External Css Inside Body: 0
+
+total attributes 1610
+Distinct Attributes: 37
+total attribute Values 1585
+Distinct Attribute Values: 689
+
+DOM average depth: 10
+DOM max depth: 30
+
+Class Average Length: 21.593067
+ID Average Length: 11.708333
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 1
+
+Total characters: 77845
+HTML characters: -53558
+Total Script characters: 1275
+Total Css characters: 10303
+Total Comment characters: 619
+Total Whitespace characters: 6448
+Total text Charachters: 5642
+
+     Halstead Complexity Measures
+
+Vocabulary= 757
+Length= 4512
+Volume= 43153.44249881562
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 726
+Length= 3195
+Volume= 30364.723232896424
+
+     PAGE RANKING
+
+(lower is better) World Ranking : 146356
+(higher is better) Google Page rank: 1
+ 
+ ------------------------------------------------------------------------------------
+
