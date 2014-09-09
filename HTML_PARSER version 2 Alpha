@@ -29,6 +29,7 @@ import org.jsoup.nodes.TextNode;
 import org.jsoup.select.Elements;
 import org.jsoup.select.NodeVisitor;
 import org.apache.commons.io.output.TeeOutputStream;
+import com.googlecode.htmlcompressor.compressor.HtmlCompressor;
 
 public class HTML_PARSER {
 	static int domcounter = 0;
@@ -39,7 +40,7 @@ public class HTML_PARSER {
 	// MAIN PROGRAM
 	public static void main(String[] args) {
 		Document doc;
-
+		HtmlCompressor compressor = new HtmlCompressor();
 		// TeeoutputStream File writer
 
 		try {
@@ -55,13 +56,16 @@ public class HTML_PARSER {
 
 			try {
 				FileOutputStream fos = new FileOutputStream(f);
+
 				// we will want to print in standard "System.out" and in "file"
+
 				TeeOutputStream myOut = new TeeOutputStream(System.out, fos);
 				PrintStream ps = new PrintStream(myOut);
 				System.setOut(ps);
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
+
 			// TeeoutputStream File writer
 
 			// Connect to TXT Link
@@ -78,7 +82,9 @@ public class HTML_PARSER {
 						.ignoreHttpErrors(true).followRedirects(true).get();
 				// Connect to TXT Link
 				int c = 0, commentsAmount = 0;
+
 				// Whitespace count
+
 				String doctoString = doc.toString();
 				int countBlank = 0;
 
@@ -94,7 +100,7 @@ public class HTML_PARSER {
 
 				for (Element vers : doc.select("[content*=.swf]")) {
 					flash++;
-				
+
 				}
 				for (Element vers : doc.select("[src*=.swf]")) {
 					flash++;
@@ -104,7 +110,6 @@ public class HTML_PARSER {
 					String elemenscript = scriptElement.toString();
 					if (elemenscript.contains(".swf")) {
 						flash++;
-						//System.out.println("\n" + "Adobe Flash Website");
 						break;
 
 					}
@@ -125,8 +130,8 @@ public class HTML_PARSER {
 								break;
 							}
 						}
-					}	
-			}
+					}
+				}
 				for (Element vers : doc.select("[content*=Joomla!]")) {
 					System.out.println("\nCMS: Joomla!");
 					break;
@@ -169,24 +174,23 @@ public class HTML_PARSER {
 				}
 				// Comments
 
-				// Duplicate IDs
-				// String idname2;
-				// List<String> idlist = new LinkedList<String>();
-				// for (Element element2 : doc.getAllElements()) {
-				// idname2 = element2.id();
-				// idlist.add(idname2.toString());
-				// }
-				// Duplicate IDs
-
+				/**
+				 * // Duplicate IDs String idname2; List<String> idlist = new
+				 * LinkedList<String>(); for (Element element2 :
+				 * doc.getAllElements()) { idname2 = element2.id();
+				 * idlist.add(idname2.toString()); } // Duplicate IDs
+				 */
 				// IdLength
 				float tid = 0;
 				List<String> idval = new ArrayList<String>();
 				String idname;
+				int idcounter = 0;
 				float l = 0, average2 = 0;
 				for (Element element2 : doc.getAllElements()) {
 					idname = element2.id();
 					if (idname.length() > 0)
-						idval.add(idname.toString());
+						idcounter++;
+					idval.add(idname.toString());
 
 				}
 
@@ -202,13 +206,18 @@ public class HTML_PARSER {
 				// Classlength
 				float g = 0, average = 0;
 				float tclass = 0;
+				int classcounter = 0;
 				List<String> classval = new ArrayList<String>();
 				for (Element element2 : doc.getAllElements()) {
 					for (String attribute : element2.classNames()) {
-						if (attribute.length() > 0)
+
+						if (attribute.length() > 0) {
+							classcounter++;
 							classval.add(attribute.toString());
+						}
 					}
 				}
+				int disclass = new HashSet<String>(classval).size();
 				for (String pointer : classval) {
 					average = pointer.length() + average;
 					g++;
@@ -260,43 +269,39 @@ public class HTML_PARSER {
 						c++;
 					}
 				}
+
+				// retrieve external Css
+				Document doccss;
+				int uncomprcss = 0;
+
+				for (Element element : doc.getElementsByTag("link")) {
+					for (Element csselement : element
+							.getElementsByAttributeValue("rel", "stylesheet")) {
+						String absUrl = element.absUrl("href");
+						if (absUrl.length() > 0) {
+							doccss = Jsoup.connect(absUrl)
+									.ignoreContentType(true).get();
+							uncomprcss = uncomprcss
+									+ doccss.toString().length();
+						}
+
+					}
+				}
+				// retrieve external css
+
 				// external Css
-				// styles
-				int style = doc.getElementsByTag("style").size()
-						+ doc.getElementsByAttribute("style").size();
-				// styles
-				// Total and Distinct Attributes
-				int att = 0;
-				List<String> atts = new ArrayList<String>();
-				for (Element element : doc.getAllElements()) {
-					for (org.jsoup.nodes.Attribute attribute : element
-							.attributes()) {
-						attribute.setValue("0");
-						atts.add(attribute.toString());
-						att++;
-					}
-				}
-				int da = new HashSet<String>(atts).size();
-				// Total and Distinct Attributes
-
-				// scripts external
-				int se = 0;
-				Elements src = doc.select("script");
-				for (Element element : src.select("script[src]")) {
-					{
-						se++;
-					}
-				}
-				// scripts external
-				// scripts inside head
-				Element scr = doc.head();
-
-				// scripts inside head
-
 				// css head
-				Element s = doc.body();
+				Element s = doc.body(), s2 = doc.head();
+				int numhead = 0;
+				for (Element element : s2.select("[rel]")) {
+					if (element.attr("rel").contains("stylesheet")) {
+						numhead++;
+					}
+				}
 				int d = 0, stylebody = s.getElementsByTag("style").size()
-						+ s.getElementsByAttribute("style").size();
+						+ s.getElementsByAttribute("style").size(), stylehead = s2
+						.getElementsByTag("style").size()
+						+ s2.getElementsByAttribute("style").size();
 				for (Element element : s.select("[rel]")) {
 					if (element.attr("rel").contains("stylesheet")) {
 						d++;
@@ -310,7 +315,59 @@ public class HTML_PARSER {
 				} else {
 					name = "TRUE";
 				}
+
 				// css head
+				// styles
+				int style = doc.getElementsByTag("style").size()
+						+ doc.getElementsByAttribute("style").size();
+				// styles
+
+				// scripts external head body comments
+
+				int se = 0, se2 = 0;
+				Element scr = doc.head();
+				Element scr2 = doc.body();
+
+				List<String> scriptinline = new ArrayList<String>();
+				for (Element element : doc.getElementsByTag("script")) {
+					if (!element.hasAttr("src")) {
+						scriptinline.add(element.toString());
+
+					}
+				}
+
+				compressor.setCompressJavaScript(true);
+				String compressedHtml = compressor.compress(scriptinline
+						.toString());
+
+				Elements src = scr.select("script");
+				// retrieve external Scripts
+				Document docscript;
+				int extcharcount = 0, uncomprscript = 0;
+				String compressedscripts;
+				for (Element element : doc.getElementsByTag("script")) {
+					String absUrl = element.absUrl("src");
+					if (absUrl.length() > 0) {
+						docscript = Jsoup.connect(absUrl)
+								.ignoreContentType(true).get();
+						compressedscripts = compressor.compress(docscript
+								.toString());
+						extcharcount = extcharcount
+								+ compressedscripts.length();
+						uncomprscript = uncomprscript
+								+ docscript.toString().length();
+					}
+
+				}
+				// retrieve external Scripts
+				for (Element element : src.select("script[src]")) {
+					se++;
+				}
+				Elements src2 = scr2.select("script");
+				for (Element element : src2.select("script[src]")) {
+					se2++;
+				}
+				// scripts external head body comments
 
 				// HTML5 Tags
 				File text = new File("C:/html5tags.txt");
@@ -354,14 +411,32 @@ public class HTML_PARSER {
 				}
 				int dt = new HashSet<String>(tags).size();
 				// tags
-
+				// Total and Distinct Attributes
+				int att = 0;
+				List<String> atts = new ArrayList<String>();
+				for (Element element : doc.getAllElements()) {
+					for (org.jsoup.nodes.Attribute attribute : element
+							.attributes()) {
+						attribute.setValue("0");
+						atts.add(attribute.toString());
+						att++;
+					}
+				}
+				int da = new HashSet<String>(atts).size();
+				// Total and Distinct Attributes
 				// Output
 				System.out.println("Total Comments: " + commentsAmount + "\n");
-				System.out.println("External Scripts: " + se);
 				System.out.println("Scripts inside HTML: "
 						+ doc.getElementsByTag("script").size());
-				System.out.println("Scripts inside Head: "
-						+ scr.getElementsByTag("script").size() + "\n");
+				System.out.println("External Scripts inside Head: " + se);
+				System.out.println("External Scripts inside Body: " + se2);
+				System.out.println("Internal Scripts inside Head: "
+						+ (scr.getElementsByTag("script").size() - se));
+
+				System.out
+						.println("Internal Scripts inside Body: "
+								+ (scr2.getElementsByTag("script").size() - se2)
+								+ "\n");
 
 				System.out
 						.println("Total tags: " + doc.getAllElements().size());
@@ -384,6 +459,11 @@ public class HTML_PARSER {
 				} catch (FileNotFoundException e) {
 					e.printStackTrace();
 				}
+				System.out.println("total attributes " + att);
+				System.out.println("Distinct Attributes: " + da);
+				System.out.println("total attribute Values " + totalval);
+				System.out.println("Distinct Attribute Values: " + valuenum
+						+ "\n");
 				System.out.println("Styles inside HTML: " + style);
 				System.out.println("total style tags: "
 						+ doc.getElementsByTag("style").size());
@@ -393,14 +473,18 @@ public class HTML_PARSER {
 				System.out.println("CSSinside head: " + name);
 				System.out.println("Styles(tags and atts) Inside Body: "
 						+ stylebody);
+				System.out.println("Styles(tags and atts) Inside Head: "
+						+ stylehead);
+
+				System.out.println("External Css Inside Head: " + numhead);
 				System.out.println("External Css Inside Body: " + d + "\n");
-				System.out.println("total attributes " + att);
-				System.out.println("Distinct Attributes: " + da);
-				System.out.println("total attribute Values " + totalval);
-				System.out.println("Distinct Attribute Values: " + valuenum
-						+ "\n");
+
 				System.out.println("DOM average depth: " + totaldom);
 				System.out.println("DOM max depth: " + domax + "\n");
+				System.out.println("Total ID names: " + idcounter);
+
+				System.out.println("Total Class names: " + classcounter);
+				System.out.println("Total Distinct Class names: " + disclass);
 				System.out.println("Class Average Length: " + tclass);
 				System.out.println("ID Average Length: " + tid + "\n");
 				System.out.println("JApplets inside html: "
@@ -429,8 +513,23 @@ public class HTML_PARSER {
 								+ ((doc.select("body").text().length()
 										+ countscriptchar + countCss + comchar + countBlank) - Countchar));
 				System.out.println("Total Script characters: "
-						+ countscriptchar);
-				System.out.println("Total Css characters: " + countCss);
+						+ (countscriptchar + extcharcount));
+				System.out.println("Total inline Script characters: "
+						+ scriptinline.toString().length());
+				System.out
+						.println("Total inline Script characters without Comments: "
+								+ compressedHtml.length());
+				System.out.println("Total External Script characters : "
+						+ extcharcount);
+				System.out
+						.println("Total External Script characters without Comments: "
+								+ uncomprscript);
+
+				System.out.println("Total Css characters: "
+						+ (countCss + uncomprcss));
+				System.out.println("Total External Css characters: "
+						+ uncomprcss);
+				System.out.println("Total inline Css characters: " + countCss);
 				System.out.println("Total Comment characters: " + comchar);
 				System.out
 						.println("Total Whitespace characters: " + countBlank);
