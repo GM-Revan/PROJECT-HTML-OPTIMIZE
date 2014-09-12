@@ -272,8 +272,8 @@ public class HTML_PARSER {
 
 				// retrieve external Css
 				Document doccss;
-				int uncomprcss = 0;
-
+				int uncomprcss = 0, comprcss = 0;
+				String compresscss;
 				for (Element element : doc.getElementsByTag("link")) {
 					for (Element csselement : element
 							.getElementsByAttributeValue("rel", "stylesheet")) {
@@ -283,6 +283,10 @@ public class HTML_PARSER {
 									.ignoreContentType(true).get();
 							uncomprcss = uncomprcss
 									+ doccss.toString().length();
+							compressor.setCompressCss(true);
+							compresscss = compressor
+									.compress(doccss.toString());
+							comprcss = comprcss + compresscss.length();
 						}
 
 					}
@@ -350,12 +354,20 @@ public class HTML_PARSER {
 					if (absUrl.length() > 0) {
 						docscript = Jsoup.connect(absUrl)
 								.ignoreContentType(true).get();
-						compressedscripts = compressor.compress(docscript
-								.toString());
-						extcharcount = extcharcount
-								+ compressedscripts.length();
-						uncomprscript = uncomprscript
-								+ docscript.toString().length();
+
+						if (!(docscript.toString().contains("window.Modernizr")
+								|| docscript.toString()
+										.contains("var MooTools") || docscript
+								.toString().contains("jquery.org"))) {
+							System.out.println(absUrl);
+							compressedscripts = compressor.compress(docscript
+									.toString());
+
+							extcharcount = extcharcount
+									+ compressedscripts.length();
+							uncomprscript = uncomprscript
+									+ docscript.toString().length();
+						}
 					}
 
 				}
@@ -517,18 +529,21 @@ public class HTML_PARSER {
 				System.out.println("Total inline Script characters: "
 						+ scriptinline.toString().length());
 				System.out
-						.println("Total inline Script characters without Comments: "
+						.println("Total inline Script characters (Compressed): "
 								+ compressedHtml.length());
 				System.out.println("Total External Script characters : "
-						+ extcharcount);
+						+ uncomprscript);
 				System.out
-						.println("Total External Script characters without Comments: "
-								+ uncomprscript);
+						.println("Total External Script characters (Compressed): "
+								+ extcharcount);
 
 				System.out.println("Total Css characters: "
 						+ (countCss + uncomprcss));
 				System.out.println("Total External Css characters: "
 						+ uncomprcss);
+				System.out
+						.println("Total External Css characters (Compressed): "
+								+ comprcss);
 				System.out.println("Total inline Css characters: " + countCss);
 				System.out.println("Total Comment characters: " + comchar);
 				System.out
